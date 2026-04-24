@@ -507,7 +507,8 @@
 <body>
 
 <header>
-  <h1>Español</h1>
+ <h1 id="home-link" style="cursor:pointer;" title="Back to settings">Español</h1>
+
   <span>A1/A2 Vocabulary Trainer</span>
 </header>
 
@@ -580,6 +581,8 @@
     <div class="btn-row">
       <button class="action-btn" id="hint-btn">Hint</button>
       <button class="action-btn" id="skip-btn">Skip</button>
+      <button class="action-btn" id="settings-btn">Back to settings</button>
+
     </div>
   </div>
 </div>
@@ -961,12 +964,26 @@ function endGame() {
 }
 
 // ─── EVENTS ─────────────────────────────────────────────────────────────────
+document.getElementById('home-link').addEventListener('click', () => {
+  document.getElementById('game-screen').style.display = 'none';
+  document.getElementById('end-screen').style.display  = 'none';
+  document.getElementById('setup-screen').style.display = 'flex';
+  updateWordCount();
+});
+
 document.getElementById('answer-input').addEventListener('keydown', e => {
   if (e.key === 'Enter') { e.preventDefault(); checkAnswer(); }
 });
 document.getElementById('hint-btn').addEventListener('click', giveHint);
 document.getElementById('skip-btn').addEventListener('click', skipWord);
 document.getElementById('restart-btn').addEventListener('click', startGame);
+document.getElementById('settings-btn').addEventListener('click', () => {
+  document.getElementById('game-screen').style.display = 'none';
+  document.getElementById('setup-screen').style.display = 'flex';
+  updateWordCount();
+});
+
+
 document.getElementById('back-setup-btn').addEventListener('click', () => {
   document.getElementById('end-screen').style.display   = 'none';
   document.getElementById('setup-screen').style.display = 'flex';
