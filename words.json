@@ -1,0 +1,7064 @@
+[
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "el pelo",
+    "english": "the hair"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "el ojo",
+    "english": "the eye"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "la nariz",
+    "english": "the nose"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "la cabeza",
+    "english": "the head"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "la cara",
+    "english": "the face"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "el brazo",
+    "english": "the arm"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "la mano",
+    "english": "the hand"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "el dedo",
+    "english": "the finger"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "la pierna",
+    "english": "the leg"
+  },
+  {
+    "level": "A1",
+    "category": "1.1 Body Parts",
+    "spanish": "el pie",
+    "english": "the foot"
+  },
+  {
+    "level": "A2",
+    "category": "1.1 Body Parts",
+    "spanish": "el oído",
+    "english": "the ear"
+  },
+  {
+    "level": "A2",
+    "category": "1.1 Body Parts",
+    "spanish": "la muela",
+    "english": "the tooth/molar"
+  },
+  {
+    "level": "A2",
+    "category": "1.1 Body Parts",
+    "spanish": "la garganta",
+    "english": "the throat"
+  },
+  {
+    "level": "A2",
+    "category": "1.1 Body Parts",
+    "spanish": "el estómago",
+    "english": "the stomach"
+  },
+  {
+    "level": "A2",
+    "category": "1.1 Body Parts",
+    "spanish": "la espalda",
+    "english": "the back"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser alto",
+    "english": "to be tall"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser bajo",
+    "english": "to be short"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser gordo",
+    "english": "to be fat"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser delgado",
+    "english": "to be thin"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser guapo",
+    "english": "to be handsome/beautiful"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser feo",
+    "english": "to be ugly"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser rubio",
+    "english": "to be blonde"
+  },
+  {
+    "level": "A1",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser moreno",
+    "english": "to be dark-haired/dark-skinned"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo rubio",
+    "english": "to have blonde hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo moreno",
+    "english": "to have dark hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo blanco",
+    "english": "to have white hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar barba",
+    "english": "to have/wear a beard"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar bigote",
+    "english": "to have a moustache"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar gafas",
+    "english": "to wear glasses"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos claros",
+    "english": "to have light eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos oscuros",
+    "english": "to have dark eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos azules",
+    "english": "to have blue eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos verdes",
+    "english": "to have green eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos negros",
+    "english": "to have black eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos marrones",
+    "english": "to have brown eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos grandes",
+    "english": "to have big eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener los ojos pequeños",
+    "english": "to have small eyes"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "ser calvo",
+    "english": "to be bald"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "estar calvo",
+    "english": "to be bald"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo liso",
+    "english": "to have straight hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo rizado",
+    "english": "to have curly hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo largo",
+    "english": "to have long hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "tener el pelo corto",
+    "english": "to have short hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar una gorra",
+    "english": "to wear a cap"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar un sombrero",
+    "english": "to wear a hat"
+  },
+  {
+    "level": "A2",
+    "category": "1.2 Physical Characteristics",
+    "spanish": "llevar un pañuelo",
+    "english": "to wear a headscarf/handkerchief"
+  },
+  {
+    "level": "A1",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "levantarse",
+    "english": "to get up"
+  },
+  {
+    "level": "A1",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "ducharse",
+    "english": "to shower"
+  },
+  {
+    "level": "A1",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "escuchar",
+    "english": "to listen"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "lavarse",
+    "english": "to wash oneself"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "peinarse",
+    "english": "to comb one's hair"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "afeitarse",
+    "english": "to shave"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "andar",
+    "english": "to walk"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "pasear",
+    "english": "to stroll"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "correr",
+    "english": "to run"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "subir",
+    "english": "to go up"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "bajar",
+    "english": "to go down"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "sentarse",
+    "english": "to sit down"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "ver",
+    "english": "to see"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "oír",
+    "english": "to hear"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "coger",
+    "english": "to take/grab"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "hacer ejercicio",
+    "english": "to exercise"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "hacer gimnasia",
+    "english": "to do gymnastics"
+  },
+  {
+    "level": "A2",
+    "category": "1.3 Body Actions and Positions",
+    "spanish": "hacer deporte",
+    "english": "to play sport"
+  },
+  {
+    "level": "A1",
+    "category": "1.4 Life Cycle",
+    "spanish": "el sexo",
+    "english": "the sex"
+  },
+  {
+    "level": "A2",
+    "category": "1.4 Life Cycle",
+    "spanish": "nacer",
+    "english": "to be born"
+  },
+  {
+    "level": "A2",
+    "category": "1.4 Life Cycle",
+    "spanish": "crecer",
+    "english": "to grow"
+  },
+  {
+    "level": "A2",
+    "category": "1.4 Life Cycle",
+    "spanish": "tener un hijo",
+    "english": "to have a child"
+  },
+  {
+    "level": "A2",
+    "category": "1.4 Life Cycle",
+    "spanish": "morir",
+    "english": "to die"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "simpático",
+    "english": "friendly/nice"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "antipático",
+    "english": "unfriendly/unpleasant"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "inteligente",
+    "english": "intelligent"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "trabajador",
+    "english": "hardworking"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "alegre",
+    "english": "cheerful"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "serio",
+    "english": "serious"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "tímido",
+    "english": "shy"
+  },
+  {
+    "level": "A1",
+    "category": "2.1 Character and Personality",
+    "spanish": "sociable",
+    "english": "sociable"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "el carácter",
+    "english": "the character/personality"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "optimista",
+    "english": "optimistic"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "abierto",
+    "english": "open"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "reservado",
+    "english": "reserved"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "tranquilo",
+    "english": "calm"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "nervioso",
+    "english": "nervous"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "generoso",
+    "english": "generous"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "egoísta",
+    "english": "selfish"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "amable",
+    "english": "kind"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "agradable",
+    "english": "pleasant"
+  },
+  {
+    "level": "A2",
+    "category": "2.1 Character and Personality",
+    "spanish": "tolerante",
+    "english": "tolerant"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "estar triste",
+    "english": "to be sad"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "estar contento",
+    "english": "to be happy"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "estar enfadado",
+    "english": "to be angry"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "estar nervioso",
+    "english": "to be nervous"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "estar preocupado",
+    "english": "to be worried"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "gustar",
+    "english": "to like"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "encantar",
+    "english": "to love/to really like"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "odiar",
+    "english": "to hate"
+  },
+  {
+    "level": "A1",
+    "category": "2.2 Feelings and Moods",
+    "spanish": "tener miedo",
+    "english": "to be afraid"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener calor",
+    "english": "to be hot"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener frío",
+    "english": "to be cold"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener sueño",
+    "english": "to be sleepy"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener sed",
+    "english": "to be thirsty"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener hambre",
+    "english": "to be hungry"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "tener dolor",
+    "english": "to be in pain"
+  },
+  {
+    "level": "A1",
+    "category": "2.3 Physical Sensations",
+    "spanish": "estar cansado",
+    "english": "to be tired"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "doler la cabeza",
+    "english": "to have a headache"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "doler el cuello",
+    "english": "to have a neck ache"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "ver",
+    "english": "to see"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "mirar",
+    "english": "to look"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "oír",
+    "english": "to hear"
+  },
+  {
+    "level": "A2",
+    "category": "2.3 Physical Sensations",
+    "spanish": "escuchar",
+    "english": "to listen"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "el nombre",
+    "english": "the name"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "el apellido",
+    "english": "the surname/last name"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "el primer apellido",
+    "english": "the first surname"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "el segundo apellido",
+    "english": "the second surname"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "el señor",
+    "english": "the Mr."
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "la señora",
+    "english": "the Mrs./Ms."
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "los señores",
+    "english": "the Mr. and Mrs."
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "firmar",
+    "english": "to sign"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.1 Name",
+    "spanish": "llamarse",
+    "english": "to be called"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.1 Name",
+    "spanish": "apellidarse",
+    "english": "to have as a surname"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.1 Name",
+    "spanish": "presentar",
+    "english": "to introduce"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.1 Name",
+    "spanish": "presentarse",
+    "english": "to introduce oneself"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la dirección",
+    "english": "the address"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el correo electrónico",
+    "english": "the email"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la calle",
+    "english": "the street"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la avenida",
+    "english": "the avenue"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el paseo",
+    "english": "the boulevard/promenade"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la plaza",
+    "english": "the square"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el piso",
+    "english": "the floor/apartment"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el número",
+    "english": "the number"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el código postal",
+    "english": "the postcode/zip code"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la casa",
+    "english": "the house"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la habitación",
+    "english": "the room"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el país",
+    "english": "the country"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "la ciudad",
+    "english": "the city"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "el pueblo",
+    "english": "the town/village"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.2 Address",
+    "spanish": "vivir",
+    "english": "to live"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.2 Address",
+    "spanish": "la dirección electrónica",
+    "english": "the email address"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.3 Phone Number",
+    "spanish": "el número de teléfono",
+    "english": "the phone number"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.3 Phone Number",
+    "spanish": "el móvil",
+    "english": "the mobile phone"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.3 Phone Number",
+    "spanish": "el prefijo",
+    "english": "the dialling code"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.3 Phone Number",
+    "spanish": "la extensión",
+    "english": "the extension"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.4 Date and Place of Birth",
+    "spanish": "el lugar de nacimiento",
+    "english": "the place of birth"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.4 Date and Place of Birth",
+    "spanish": "la fecha de nacimiento",
+    "english": "the date of birth"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.4 Date and Place of Birth",
+    "spanish": "nacer",
+    "english": "to be born"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.4 Date and Place of Birth",
+    "spanish": "morir",
+    "english": "to die"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "la nacionalidad",
+    "english": "the nationality"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "el extranjero",
+    "english": "the foreigner"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "español",
+    "english": "Spanish"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "alemán",
+    "english": "German"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "mexicano",
+    "english": "Mexican"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "japonés",
+    "english": "Japanese"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.5 Nationality",
+    "spanish": "marroquí",
+    "english": "Moroccan"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.5 Nationality",
+    "spanish": "tener la nacionalidad",
+    "english": "to have nationality"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.5 Nationality",
+    "spanish": "pedir la nacionalidad",
+    "english": "to apply for nationality"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "la edad",
+    "english": "the age"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "el niño",
+    "english": "the child/boy"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "el chico",
+    "english": "the boy/young man"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "el joven",
+    "english": "the young person"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "el viejo",
+    "english": "the old person"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.6 Age",
+    "spanish": "tener años",
+    "english": "to be ... years old"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.6 Age",
+    "spanish": "el bebé",
+    "english": "the baby"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.6 Age",
+    "spanish": "el adolescente",
+    "english": "the teenager"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.6 Age",
+    "spanish": "la persona mayor",
+    "english": "the elderly person"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "el hombre",
+    "english": "the man"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "la mujer",
+    "english": "the woman"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "el niño",
+    "english": "the boy"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "la niña",
+    "english": "the girl"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "el chico",
+    "english": "the boy"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "la chica",
+    "english": "the girl"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "el señor",
+    "english": "the gentleman/Mr."
+  },
+  {
+    "level": "A1",
+    "category": "3.1.7 Sex",
+    "spanish": "la señora",
+    "english": "the lady/Mrs."
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "el estado civil",
+    "english": "the marital status"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "soltero",
+    "english": "single"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "casado",
+    "english": "married"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "viudo",
+    "english": "widowed"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "separado",
+    "english": "separated"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "divorciado",
+    "english": "divorced"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "el marido",
+    "english": "the husband"
+  },
+  {
+    "level": "A1",
+    "category": "3.1.8 Marital Status",
+    "spanish": "la mujer",
+    "english": "the wife/woman"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.8 Marital Status",
+    "spanish": "casarse",
+    "english": "to get married"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.8 Marital Status",
+    "spanish": "separarse",
+    "english": "to separate"
+  },
+  {
+    "level": "A2",
+    "category": "3.1.8 Marital Status",
+    "spanish": "divorciarse",
+    "english": "to get divorced"
+  },
+  {
+    "level": "A1",
+    "category": "3.2 Documentation",
+    "spanish": "el pasaporte",
+    "english": "the passport"
+  },
+  {
+    "level": "A1",
+    "category": "3.2 Documentation",
+    "spanish": "el carné de identidad",
+    "english": "the identity card"
+  },
+  {
+    "level": "A1",
+    "category": "3.2 Documentation",
+    "spanish": "el carné de conducir",
+    "english": "the driving licence"
+  },
+  {
+    "level": "A2",
+    "category": "3.2 Documentation",
+    "spanish": "la tarjeta de estudiante",
+    "english": "the student card"
+  },
+  {
+    "level": "A2",
+    "category": "3.2 Documentation",
+    "spanish": "la tarjeta de la biblioteca",
+    "english": "the library card"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "las llaves",
+    "english": "the keys"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "la cartera",
+    "english": "the wallet"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "el bolso",
+    "english": "the handbag"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "la maleta",
+    "english": "the suitcase"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "el reloj",
+    "english": "the watch/clock"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "el móvil",
+    "english": "the mobile phone"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "las gafas",
+    "english": "the glasses"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "el ordenador",
+    "english": "the computer"
+  },
+  {
+    "level": "A1",
+    "category": "3.3 Personal Objects",
+    "spanish": "la tarjeta de crédito",
+    "english": "the credit card"
+  },
+  {
+    "level": "A2",
+    "category": "3.3 Personal Objects",
+    "spanish": "el paraguas",
+    "english": "the umbrella"
+  },
+  {
+    "level": "A2",
+    "category": "3.3 Personal Objects",
+    "spanish": "la agenda",
+    "english": "the diary/planner"
+  },
+  {
+    "level": "A2",
+    "category": "3.3 Personal Objects",
+    "spanish": "la tarjeta de visita",
+    "english": "the business card"
+  },
+  {
+    "level": "A2",
+    "category": "3.3 Personal Objects",
+    "spanish": "el maletín",
+    "english": "the briefcase"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "la familia",
+    "english": "the family"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "los padres",
+    "english": "the parents"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el padre",
+    "english": "the father"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "la madre",
+    "english": "the mother"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el hijo",
+    "english": "the son/child"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el hermano",
+    "english": "the brother/sibling"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el tío",
+    "english": "the uncle"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el sobrino",
+    "english": "the nephew"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el abuelo",
+    "english": "the grandfather"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el nieto",
+    "english": "the grandson"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el primo",
+    "english": "the cousin"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el marido",
+    "english": "the husband"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "la mujer",
+    "english": "the wife"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "la pareja",
+    "english": "the partner/couple"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el novio",
+    "english": "the boyfriend/fiancé"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "el papá",
+    "english": "the dad"
+  },
+  {
+    "level": "A1",
+    "category": "4.1 Family Relationships",
+    "spanish": "la mamá",
+    "english": "the mum"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "el hijo único",
+    "english": "the only child"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "los hermanos gemelos",
+    "english": "the twins"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "el ex marido",
+    "english": "the ex-husband"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "la ex mujer",
+    "english": "the ex-wife"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "vivir juntos",
+    "english": "to live together"
+  },
+  {
+    "level": "A2",
+    "category": "4.1 Family Relationships",
+    "spanish": "vivir con la pareja",
+    "english": "to live with a partner"
+  },
+  {
+    "level": "A1",
+    "category": "4.2 Social Relationships",
+    "spanish": "el amigo",
+    "english": "the friend"
+  },
+  {
+    "level": "A1",
+    "category": "4.2 Social Relationships",
+    "spanish": "el jefe",
+    "english": "the boss"
+  },
+  {
+    "level": "A1",
+    "category": "4.2 Social Relationships",
+    "spanish": "el compañero",
+    "english": "the colleague/companion"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "el vecino",
+    "english": "the neighbour"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "el socio",
+    "english": "the partner/associate"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "el compañero de clase",
+    "english": "the classmate"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "el compañero de trabajo",
+    "english": "the workmate"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "el compañero de piso",
+    "english": "the flatmate"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "la reunión",
+    "english": "the meeting"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "la cita",
+    "english": "the appointment/date"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "visitar",
+    "english": "to visit"
+  },
+  {
+    "level": "A2",
+    "category": "4.2 Social Relationships",
+    "spanish": "invitar",
+    "english": "to invite"
+  },
+  {
+    "level": "A1",
+    "category": "4.3 Celebrations",
+    "spanish": "la fiesta",
+    "english": "the party"
+  },
+  {
+    "level": "A2",
+    "category": "4.3 Celebrations",
+    "spanish": "la fiesta de cumpleaños",
+    "english": "the birthday party"
+  },
+  {
+    "level": "A2",
+    "category": "4.3 Celebrations",
+    "spanish": "la fiesta de fin de curso",
+    "english": "the end-of-year party"
+  },
+  {
+    "level": "A2",
+    "category": "4.3 Celebrations",
+    "spanish": "el regalo",
+    "english": "the gift/present"
+  },
+  {
+    "level": "A2",
+    "category": "4.3 Celebrations",
+    "spanish": "regalar",
+    "english": "to give a gift"
+  },
+  {
+    "level": "A2",
+    "category": "4.3 Celebrations",
+    "spanish": "hacer una fiesta",
+    "english": "to have a party"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "el desayuno",
+    "english": "the breakfast"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "la comida",
+    "english": "the lunch/meal"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "la merienda",
+    "english": "the afternoon snack"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "la cena",
+    "english": "the dinner"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "desayunar",
+    "english": "to have breakfast"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "comer",
+    "english": "to eat/have lunch"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "merendar",
+    "english": "to have an afternoon snack"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "cenar",
+    "english": "to have dinner"
+  },
+  {
+    "level": "A1",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "tener hambre",
+    "english": "to be hungry"
+  },
+  {
+    "level": "A2",
+    "category": "5.1 Diet and Nutrition",
+    "spanish": "ser vegetariano",
+    "english": "to be vegetarian"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el agua mineral",
+    "english": "the mineral water"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el agua con gas",
+    "english": "the sparkling water"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el agua sin gas",
+    "english": "the still water"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "la leche",
+    "english": "the milk"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el té",
+    "english": "the tea"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el café solo",
+    "english": "the black coffee"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el café con leche",
+    "english": "the coffee with milk"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el café cortado",
+    "english": "the coffee with a little milk"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "la cerveza",
+    "english": "the beer"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el vino blanco",
+    "english": "the white wine"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "el vino tinto",
+    "english": "the red wine"
+  },
+  {
+    "level": "A1",
+    "category": "5.2 Drinks",
+    "spanish": "beber",
+    "english": "to drink"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la bebida con alcohol",
+    "english": "the alcoholic drink"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la bebida sin alcohol",
+    "english": "the non-alcoholic drink"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el zumo de naranja",
+    "english": "the orange juice"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el zumo de tomate",
+    "english": "the tomato juice"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el zumo de frutas",
+    "english": "the fruit juice"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la infusión",
+    "english": "the herbal tea"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el ron",
+    "english": "the rum"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la ginebra",
+    "english": "the gin"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el cava",
+    "english": "the cava (sparkling wine)"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "el champán",
+    "english": "the champagne"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la botella",
+    "english": "the bottle"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "la lata",
+    "english": "the can"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "tener sed",
+    "english": "to be thirsty"
+  },
+  {
+    "level": "A2",
+    "category": "5.2 Drinks",
+    "spanish": "tomar algo",
+    "english": "to have something (to drink)"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "la carne",
+    "english": "the meat"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "el pescado",
+    "english": "the fish"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "la fruta",
+    "english": "the fruit"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "la verdura",
+    "english": "the vegetables"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "la leche",
+    "english": "the milk"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "los huevos",
+    "english": "the eggs"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "el pan",
+    "english": "the bread"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "el bocadillo",
+    "english": "the sandwich (baguette)"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "el sándwich",
+    "english": "the sandwich"
+  },
+  {
+    "level": "A1",
+    "category": "5.3 Food",
+    "spanish": "la hamburguesa",
+    "english": "the hamburger"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la lechuga",
+    "english": "the lettuce"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el tomate",
+    "english": "the tomato"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la zanahoria",
+    "english": "the carrot"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el plátano",
+    "english": "the banana"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la manzana",
+    "english": "the apple"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la naranja",
+    "english": "the orange"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la patata",
+    "english": "the potato"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el ajo",
+    "english": "the garlic"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la cebolla",
+    "english": "the onion"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el perejil",
+    "english": "the parsley"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el queso",
+    "english": "the cheese"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el yogur",
+    "english": "the yoghurt"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la mantequilla",
+    "english": "the butter"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la mayonesa",
+    "english": "the mayonnaise"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la salsa",
+    "english": "the sauce"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la merluza",
+    "english": "the hake"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el salmón",
+    "english": "the salmon"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la sardina",
+    "english": "the sardine"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el atún",
+    "english": "the tuna"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "las gambas",
+    "english": "the prawns/shrimp"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la pasta",
+    "english": "the pasta"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el arroz",
+    "english": "the rice"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el chocolate",
+    "english": "the chocolate"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "las galletas",
+    "english": "the biscuits/cookies"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "los cereales",
+    "english": "the cereal"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el azúcar",
+    "english": "the sugar"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la sal",
+    "english": "the salt"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la pimienta",
+    "english": "the pepper"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el aceite",
+    "english": "the oil"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la carne de ternera",
+    "english": "the beef"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la carne de cerdo",
+    "english": "the pork"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la carne de cordero",
+    "english": "the lamb"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la carne de pollo",
+    "english": "the chicken"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el filete",
+    "english": "the steak/fillet"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el jamón serrano",
+    "english": "the cured ham"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el jamón York",
+    "english": "the cooked ham"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el helado de chocolate",
+    "english": "the chocolate ice cream"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el helado de fresa",
+    "english": "the strawberry ice cream"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "el helado de vainilla",
+    "english": "the vanilla ice cream"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la tarta de manzana",
+    "english": "the apple cake/tart"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la tarta de crema",
+    "english": "the cream cake"
+  },
+  {
+    "level": "A2",
+    "category": "5.3 Food",
+    "spanish": "la tarta de chocolate",
+    "english": "the chocolate cake"
+  },
+  {
+    "level": "A1",
+    "category": "5.4 Recipes",
+    "spanish": "la receta",
+    "english": "the recipe"
+  },
+  {
+    "level": "A2",
+    "category": "5.4 Recipes",
+    "spanish": "el ingrediente",
+    "english": "the ingredient"
+  },
+  {
+    "level": "A2",
+    "category": "5.4 Recipes",
+    "spanish": "cocinar",
+    "english": "to cook"
+  },
+  {
+    "level": "A2",
+    "category": "5.4 Recipes",
+    "spanish": "llevar",
+    "english": "to contain/include (ingredients)"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "el primer plato",
+    "english": "the first course"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "el segundo plato",
+    "english": "the second course"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "el postre",
+    "english": "the dessert"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "la sopa",
+    "english": "the soup"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "la ensalada",
+    "english": "the salad"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "la paella",
+    "english": "the paella"
+  },
+  {
+    "level": "A1",
+    "category": "5.5 Dishes",
+    "spanish": "la tortilla",
+    "english": "the omelette"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "el filete con patatas",
+    "english": "the steak with chips"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "el plato combinado",
+    "english": "the mixed plate"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "la tapa",
+    "english": "the tapa (small portion)"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "el aperitivo",
+    "english": "the appetiser"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "bueno",
+    "english": "good"
+  },
+  {
+    "level": "A2",
+    "category": "5.5 Dishes",
+    "spanish": "rico",
+    "english": "delicious"
+  },
+  {
+    "level": "A1",
+    "category": "5.6 Kitchen Utensils",
+    "spanish": "el plato",
+    "english": "the plate"
+  },
+  {
+    "level": "A1",
+    "category": "5.6 Kitchen Utensils",
+    "spanish": "el vaso",
+    "english": "the glass"
+  },
+  {
+    "level": "A1",
+    "category": "5.6 Kitchen Utensils",
+    "spanish": "la taza",
+    "english": "the cup"
+  },
+  {
+    "level": "A1",
+    "category": "5.6 Kitchen Utensils",
+    "spanish": "la botella",
+    "english": "the bottle"
+  },
+  {
+    "level": "A2",
+    "category": "5.6 Kitchen Utensils",
+    "spanish": "la servilleta",
+    "english": "the napkin"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "el bar",
+    "english": "the bar"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "el restaurante",
+    "english": "the restaurant"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "el camarero",
+    "english": "the waiter"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "la mesa",
+    "english": "the table"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "el menú",
+    "english": "the menu"
+  },
+  {
+    "level": "A1",
+    "category": "5.7 Restaurant",
+    "spanish": "la cuenta",
+    "english": "the bill"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "la cafetería",
+    "english": "the café/cafeteria"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "la pizzería",
+    "english": "the pizzeria"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el restaurante chino",
+    "english": "the Chinese restaurant"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el restaurante italiano",
+    "english": "the Italian restaurant"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el restaurante mexicano",
+    "english": "the Mexican restaurant"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el restaurante vegetariano",
+    "english": "the vegetarian restaurant"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "la comida china",
+    "english": "the Chinese food"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "la comida japonesa",
+    "english": "the Japanese food"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "la comida rápida",
+    "english": "the fast food"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el cocinero",
+    "english": "the cook/chef"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "el chef",
+    "english": "the chef"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "reservar una mesa",
+    "english": "to book a table"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "pedir el menú",
+    "english": "to order the menu"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "pedir la carta",
+    "english": "to ask for the menu"
+  },
+  {
+    "level": "A2",
+    "category": "5.7 Restaurant",
+    "spanish": "pedir la cuenta",
+    "english": "to ask for the bill"
+  },
+  {
+    "level": "A1",
+    "category": "6.1 Educational Centres",
+    "spanish": "el instituto",
+    "english": "the secondary school"
+  },
+  {
+    "level": "A1",
+    "category": "6.1 Educational Centres",
+    "spanish": "la universidad",
+    "english": "the university"
+  },
+  {
+    "level": "A1",
+    "category": "6.1 Educational Centres",
+    "spanish": "la clase",
+    "english": "the class/classroom"
+  },
+  {
+    "level": "A1",
+    "category": "6.1 Educational Centres",
+    "spanish": "la biblioteca",
+    "english": "the library"
+  },
+  {
+    "level": "A2",
+    "category": "6.1 Educational Centres",
+    "spanish": "el colegio",
+    "english": "the primary school"
+  },
+  {
+    "level": "A2",
+    "category": "6.1 Educational Centres",
+    "spanish": "la academia de idiomas",
+    "english": "the language school"
+  },
+  {
+    "level": "A2",
+    "category": "6.1 Educational Centres",
+    "spanish": "la escuela de idiomas",
+    "english": "the language school"
+  },
+  {
+    "level": "A2",
+    "category": "6.1 Educational Centres",
+    "spanish": "la biblioteca municipal",
+    "english": "the public library"
+  },
+  {
+    "level": "A2",
+    "category": "6.1 Educational Centres",
+    "spanish": "el aula",
+    "english": "the classroom"
+  },
+  {
+    "level": "A1",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el profesor",
+    "english": "the teacher"
+  },
+  {
+    "level": "A1",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el estudiante",
+    "english": "the student"
+  },
+  {
+    "level": "A1",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el director",
+    "english": "the headteacher/director"
+  },
+  {
+    "level": "A1",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el compañero",
+    "english": "the classmate/colleague"
+  },
+  {
+    "level": "A2",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el compañero de clase",
+    "english": "the classmate"
+  },
+  {
+    "level": "A2",
+    "category": "6.2 Teachers and Students",
+    "spanish": "el alumno",
+    "english": "the pupil/student"
+  },
+  {
+    "level": "A1",
+    "category": "6.3 Education System",
+    "spanish": "la clase de español",
+    "english": "the Spanish class"
+  },
+  {
+    "level": "A1",
+    "category": "6.3 Education System",
+    "spanish": "la clase de matemáticas",
+    "english": "the maths class"
+  },
+  {
+    "level": "A1",
+    "category": "6.3 Education System",
+    "spanish": "la clase de historia",
+    "english": "the history class"
+  },
+  {
+    "level": "A1",
+    "category": "6.3 Education System",
+    "spanish": "el horario",
+    "english": "the timetable/schedule"
+  },
+  {
+    "level": "A1",
+    "category": "6.3 Education System",
+    "spanish": "el examen",
+    "english": "the exam"
+  },
+  {
+    "level": "A2",
+    "category": "6.3 Education System",
+    "spanish": "el programa del curso",
+    "english": "the course programme"
+  },
+  {
+    "level": "A2",
+    "category": "6.3 Education System",
+    "spanish": "pagar la matrícula",
+    "english": "to pay tuition fees"
+  },
+  {
+    "level": "A2",
+    "category": "6.3 Education System",
+    "spanish": "hacer un curso",
+    "english": "to do a course"
+  },
+  {
+    "level": "A1",
+    "category": "6.4 Learning and Teaching",
+    "spanish": "aprender",
+    "english": "to learn"
+  },
+  {
+    "level": "A1",
+    "category": "6.4 Learning and Teaching",
+    "spanish": "estudiar",
+    "english": "to study"
+  },
+  {
+    "level": "A1",
+    "category": "6.4 Learning and Teaching",
+    "spanish": "ir a clase",
+    "english": "to go to class"
+  },
+  {
+    "level": "A2",
+    "category": "6.4 Learning and Teaching",
+    "spanish": "dar clases",
+    "english": "to teach/give classes"
+  },
+  {
+    "level": "A1",
+    "category": "6.5 Exams and Grades",
+    "spanish": "hacer un examen",
+    "english": "to take an exam"
+  },
+  {
+    "level": "A1",
+    "category": "6.5 Exams and Grades",
+    "spanish": "tener un examen",
+    "english": "to have an exam"
+  },
+  {
+    "level": "A2",
+    "category": "6.5 Exams and Grades",
+    "spanish": "el diploma",
+    "english": "the diploma"
+  },
+  {
+    "level": "A2",
+    "category": "6.5 Exams and Grades",
+    "spanish": "el certificado",
+    "english": "the certificate"
+  },
+  {
+    "level": "A2",
+    "category": "6.5 Exams and Grades",
+    "spanish": "aprobar",
+    "english": "to pass"
+  },
+  {
+    "level": "A2",
+    "category": "6.5 Exams and Grades",
+    "spanish": "suspender",
+    "english": "to fail"
+  },
+  {
+    "level": "A1",
+    "category": "6.6 Studies and Qualifications",
+    "spanish": "Matemáticas",
+    "english": "Mathematics"
+  },
+  {
+    "level": "A1",
+    "category": "6.6 Studies and Qualifications",
+    "spanish": "Historia",
+    "english": "History"
+  },
+  {
+    "level": "A2",
+    "category": "6.6 Studies and Qualifications",
+    "spanish": "Medicina",
+    "english": "Medicine"
+  },
+  {
+    "level": "A2",
+    "category": "6.6 Studies and Qualifications",
+    "spanish": "Derecho",
+    "english": "Law"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "el ejercicio",
+    "english": "the exercise"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "la actividad",
+    "english": "the activity"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "la lección",
+    "english": "the lesson"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "la unidad",
+    "english": "the unit"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "la página",
+    "english": "the page"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "la pregunta",
+    "english": "the question"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "el profesor",
+    "english": "the teacher"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "el compañero",
+    "english": "the classmate"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "en parejas",
+    "english": "in pairs"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "en grupos",
+    "english": "in groups"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "hablar",
+    "english": "to speak"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "escuchar",
+    "english": "to listen"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "leer",
+    "english": "to read"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "escribir",
+    "english": "to write"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "entender",
+    "english": "to understand"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "comprender",
+    "english": "to understand"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "saber",
+    "english": "to know"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "aprender",
+    "english": "to learn"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "estudiar",
+    "english": "to study"
+  },
+  {
+    "level": "A1",
+    "category": "6.7 Classroom Language",
+    "spanish": "repetir",
+    "english": "to repeat"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "practicar",
+    "english": "to practise"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "hacer los deberes",
+    "english": "to do homework"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "preguntar",
+    "english": "to ask"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "contestar",
+    "english": "to answer"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "completar",
+    "english": "to complete"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "dibujar",
+    "english": "to draw"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "jugar",
+    "english": "to play"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "adivinar",
+    "english": "to guess"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "hacer una redacción",
+    "english": "to write an essay"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "memorizar una regla",
+    "english": "to memorise a rule"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "repasar",
+    "english": "to review/revise"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "cometer un error",
+    "english": "to make a mistake"
+  },
+  {
+    "level": "A2",
+    "category": "6.7 Classroom Language",
+    "spanish": "tener buena letra",
+    "english": "to have good handwriting"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "Internet",
+    "english": "internet"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el libro",
+    "english": "the book"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el diccionario",
+    "english": "the dictionary"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el papel",
+    "english": "the paper"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el bolígrafo",
+    "english": "the pen"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el lápiz",
+    "english": "the pencil"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la goma",
+    "english": "the eraser"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la fotocopia",
+    "english": "the photocopy"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la mesa",
+    "english": "the desk/table"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la silla",
+    "english": "the chair"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el armario",
+    "english": "the cupboard"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la estantería",
+    "english": "the bookshelf"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "la pizarra",
+    "english": "the blackboard/whiteboard"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el ordenador",
+    "english": "the computer"
+  },
+  {
+    "level": "A1",
+    "category": "6.8 Educational Materials",
+    "spanish": "el mapa",
+    "english": "the map"
+  },
+  {
+    "level": "A2",
+    "category": "6.8 Educational Materials",
+    "spanish": "el cuaderno",
+    "english": "the notebook"
+  },
+  {
+    "level": "A2",
+    "category": "6.8 Educational Materials",
+    "spanish": "la hoja",
+    "english": "the sheet of paper"
+  },
+  {
+    "level": "A2",
+    "category": "6.8 Educational Materials",
+    "spanish": "la regla",
+    "english": "the ruler"
+  },
+  {
+    "level": "A2",
+    "category": "6.8 Educational Materials",
+    "spanish": "la impresora",
+    "english": "the printer"
+  },
+  {
+    "level": "A2",
+    "category": "6.8 Educational Materials",
+    "spanish": "la fotocopiadora",
+    "english": "the photocopier"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el abogado",
+    "english": "the lawyer"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el médico",
+    "english": "the doctor"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el profesor",
+    "english": "the teacher"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el taxista",
+    "english": "the taxi driver"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el ama de casa",
+    "english": "the housewife/homemaker"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el jefe",
+    "english": "the boss"
+  },
+  {
+    "level": "A1",
+    "category": "7.1 Professions",
+    "spanish": "el director",
+    "english": "the director/manager"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "el dependiente",
+    "english": "the shop assistant"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "el funcionario",
+    "english": "the civil servant"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "el comercial",
+    "english": "the sales representative"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "el empresario",
+    "english": "the businessman/businesswoman"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "trabajar de canguro",
+    "english": "to work as a babysitter"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "tener una tienda",
+    "english": "to have a shop"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "tener un negocio",
+    "english": "to have a business"
+  },
+  {
+    "level": "A2",
+    "category": "7.1 Professions",
+    "spanish": "tener una peluquería",
+    "english": "to have a hairdresser's"
+  },
+  {
+    "level": "A1",
+    "category": "7.2 Workplace",
+    "spanish": "la empresa",
+    "english": "the company"
+  },
+  {
+    "level": "A1",
+    "category": "7.2 Workplace",
+    "spanish": "la oficina",
+    "english": "the office"
+  },
+  {
+    "level": "A1",
+    "category": "7.2 Workplace",
+    "spanish": "la tienda",
+    "english": "the shop"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "el despacho",
+    "english": "the office/study"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "el negocio",
+    "english": "the business"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "la fábrica",
+    "english": "the factory"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "la multinacional",
+    "english": "the multinational"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "la panadería",
+    "english": "the bakery"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "la librería",
+    "english": "the bookshop"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "el traje",
+    "english": "the suit"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "la corbata",
+    "english": "the tie"
+  },
+  {
+    "level": "A2",
+    "category": "7.2 Workplace",
+    "spanish": "el uniforme",
+    "english": "the uniform"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "el trabajo",
+    "english": "the work/job"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "la profesión",
+    "english": "the profession"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "trabajar",
+    "english": "to work"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "dedicarse a",
+    "english": "to work as/to be engaged in"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "comprar",
+    "english": "to buy"
+  },
+  {
+    "level": "A1",
+    "category": "7.3 Work Activity",
+    "spanish": "vender",
+    "english": "to sell"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "el negocio",
+    "english": "the business"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "el cliente",
+    "english": "the customer/client"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "comprar un producto",
+    "english": "to buy a product"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "tener una reunión",
+    "english": "to have a meeting"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "hacer fotocopias",
+    "english": "to make photocopies"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "contestar al teléfono",
+    "english": "to answer the phone"
+  },
+  {
+    "level": "A2",
+    "category": "7.3 Work Activity",
+    "spanish": "enviar un correo electrónico",
+    "english": "to send an email"
+  },
+  {
+    "level": "A1",
+    "category": "7.4 Unemployment",
+    "spanish": "estar en paro",
+    "english": "to be unemployed"
+  },
+  {
+    "level": "A2",
+    "category": "7.4 Unemployment",
+    "spanish": "tener trabajo",
+    "english": "to have a job"
+  },
+  {
+    "level": "A2",
+    "category": "7.4 Unemployment",
+    "spanish": "tener una entrevista de trabajo",
+    "english": "to have a job interview"
+  },
+  {
+    "level": "A2",
+    "category": "7.4 Unemployment",
+    "spanish": "escribir el currículum",
+    "english": "to write a CV"
+  },
+  {
+    "level": "A2",
+    "category": "7.4 Unemployment",
+    "spanish": "enviar el currículum",
+    "english": "to send a CV"
+  },
+  {
+    "level": "A1",
+    "category": "7.5 Work Rights",
+    "spanish": "el trabajo",
+    "english": "the work"
+  },
+  {
+    "level": "A1",
+    "category": "7.5 Work Rights",
+    "spanish": "las vacaciones",
+    "english": "the holidays/vacation"
+  },
+  {
+    "level": "A1",
+    "category": "7.5 Work Rights",
+    "spanish": "trabajar",
+    "english": "to work"
+  },
+  {
+    "level": "A2",
+    "category": "7.5 Work Rights",
+    "spanish": "tener vacaciones",
+    "english": "to have holidays"
+  },
+  {
+    "level": "A2",
+    "category": "7.5 Work Rights",
+    "spanish": "ganar dinero",
+    "english": "to earn money"
+  },
+  {
+    "level": "A2",
+    "category": "7.5 Work Rights",
+    "spanish": "estar jubilado",
+    "english": "to be retired"
+  },
+  {
+    "level": "A1",
+    "category": "7.6 Worker Characteristics",
+    "spanish": "ser trabajador",
+    "english": "to be hardworking"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "las vacaciones",
+    "english": "the holidays/vacation"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "el turista",
+    "english": "the tourist"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "viajar",
+    "english": "to travel"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "leer el periódico",
+    "english": "to read the newspaper"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "leer un libro",
+    "english": "to read a book"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "leer una revista",
+    "english": "to read a magazine"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ver la televisión",
+    "english": "to watch television"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ver una película",
+    "english": "to watch a film"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "escuchar música",
+    "english": "to listen to music"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "escuchar la radio",
+    "english": "to listen to the radio"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "escuchar una canción",
+    "english": "to listen to a song"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ir a un bar",
+    "english": "to go to a bar"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ir al cine",
+    "english": "to go to the cinema"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ir al teatro",
+    "english": "to go to the theatre"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "ir al parque",
+    "english": "to go to the park"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "cantar",
+    "english": "to sing"
+  },
+  {
+    "level": "A1",
+    "category": "8.1 Free Time",
+    "spanish": "bailar",
+    "english": "to dance"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "el tiempo libre",
+    "english": "the free time"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "la afición",
+    "english": "the hobby"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "el hobby",
+    "english": "the hobby"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "el parque de atracciones",
+    "english": "the amusement park"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "el zoológico",
+    "english": "the zoo"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "el zoo",
+    "english": "the zoo"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "invitar",
+    "english": "to invite"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "quedar",
+    "english": "to meet up"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "ir de paseo",
+    "english": "to go for a walk"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "ir de compras",
+    "english": "to go shopping"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "ir de excursión",
+    "english": "to go on a trip"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "pasear",
+    "english": "to stroll"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "caminar",
+    "english": "to walk"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "tener una cita",
+    "english": "to have a date/appointment"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "salir con amigos",
+    "english": "to go out with friends"
+  },
+  {
+    "level": "A2",
+    "category": "8.1 Free Time",
+    "spanish": "tomar algo",
+    "english": "to have a drink"
+  },
+  {
+    "level": "A1",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la película",
+    "english": "the film"
+  },
+  {
+    "level": "A1",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "el concierto",
+    "english": "the concert"
+  },
+  {
+    "level": "A1",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "ir al teatro",
+    "english": "to go to the theatre"
+  },
+  {
+    "level": "A1",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "ir al cine",
+    "english": "to go to the cinema"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la entrada",
+    "english": "the ticket"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la invitación",
+    "english": "the invitation"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "el programa",
+    "english": "the programme"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la exposición",
+    "english": "the exhibition"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la obra de teatro",
+    "english": "the theatre play"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "la ópera",
+    "english": "the opera"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "el musical",
+    "english": "the musical"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "el concierto de música clásica",
+    "english": "the classical music concert"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "el concierto de rock",
+    "english": "the rock concert"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "comprar una entrada",
+    "english": "to buy a ticket"
+  },
+  {
+    "level": "A2",
+    "category": "8.2 Shows and Exhibitions",
+    "spanish": "reservar una entrada",
+    "english": "to book a ticket"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "correr",
+    "english": "to run"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "nadar",
+    "english": "to swim"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "esquiar",
+    "english": "to ski"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "hacer deporte",
+    "english": "to play sport"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "hacer ejercicio",
+    "english": "to exercise"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "hacer gimnasia",
+    "english": "to do gymnastics"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "jugar al fútbol",
+    "english": "to play football"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "jugar al baloncesto",
+    "english": "to play basketball"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "jugar al tenis",
+    "english": "to play tennis"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "el gimnasio",
+    "english": "the gym"
+  },
+  {
+    "level": "A1",
+    "category": "8.3 Sports",
+    "spanish": "la piscina",
+    "english": "the swimming pool"
+  },
+  {
+    "level": "A2",
+    "category": "8.3 Sports",
+    "spanish": "practicar un deporte",
+    "english": "to practise a sport"
+  },
+  {
+    "level": "A2",
+    "category": "8.3 Sports",
+    "spanish": "montar en bicicleta",
+    "english": "to ride a bike"
+  },
+  {
+    "level": "A2",
+    "category": "8.3 Sports",
+    "spanish": "hacer senderismo",
+    "english": "to go hiking"
+  },
+  {
+    "level": "A1",
+    "category": "8.4 Games",
+    "spanish": "el juego",
+    "english": "the game"
+  },
+  {
+    "level": "A1",
+    "category": "8.4 Games",
+    "spanish": "el compañero de juego",
+    "english": "the playmate"
+  },
+  {
+    "level": "A2",
+    "category": "8.4 Games",
+    "spanish": "jugar a las cartas",
+    "english": "to play cards"
+  },
+  {
+    "level": "A2",
+    "category": "8.4 Games",
+    "spanish": "jugar al parchís",
+    "english": "to play ludo"
+  },
+  {
+    "level": "A2",
+    "category": "8.4 Games",
+    "spanish": "jugar al ajedrez",
+    "english": "to play chess"
+  },
+  {
+    "level": "A1",
+    "category": "9.1 Information and Communication",
+    "spanish": "la televisión",
+    "english": "the television"
+  },
+  {
+    "level": "A1",
+    "category": "9.1 Information and Communication",
+    "spanish": "la radio",
+    "english": "the radio"
+  },
+  {
+    "level": "A1",
+    "category": "9.1 Information and Communication",
+    "spanish": "el correo electrónico",
+    "english": "the email"
+  },
+  {
+    "level": "A1",
+    "category": "9.1 Information and Communication",
+    "spanish": "el teléfono",
+    "english": "the telephone"
+  },
+  {
+    "level": "A2",
+    "category": "9.1 Information and Communication",
+    "spanish": "recibir una llamada",
+    "english": "to receive a call"
+  },
+  {
+    "level": "A2",
+    "category": "9.1 Information and Communication",
+    "spanish": "responder a una llamada",
+    "english": "to respond to a call"
+  },
+  {
+    "level": "A2",
+    "category": "9.1 Information and Communication",
+    "spanish": "preguntar",
+    "english": "to ask"
+  },
+  {
+    "level": "A2",
+    "category": "9.1 Information and Communication",
+    "spanish": "contestar",
+    "english": "to answer"
+  },
+  {
+    "level": "A1",
+    "category": "9.2 Written Correspondence",
+    "spanish": "el sobre",
+    "english": "the envelope"
+  },
+  {
+    "level": "A1",
+    "category": "9.2 Written Correspondence",
+    "spanish": "el sello",
+    "english": "the stamp"
+  },
+  {
+    "level": "A1",
+    "category": "9.2 Written Correspondence",
+    "spanish": "el papel",
+    "english": "the paper"
+  },
+  {
+    "level": "A1",
+    "category": "9.2 Written Correspondence",
+    "spanish": "escribir una postal",
+    "english": "to write a postcard"
+  },
+  {
+    "level": "A1",
+    "category": "9.2 Written Correspondence",
+    "spanish": "escribir una carta",
+    "english": "to write a letter"
+  },
+  {
+    "level": "A2",
+    "category": "9.2 Written Correspondence",
+    "spanish": "enviar una carta",
+    "english": "to send a letter"
+  },
+  {
+    "level": "A2",
+    "category": "9.2 Written Correspondence",
+    "spanish": "recibir una carta",
+    "english": "to receive a letter"
+  },
+  {
+    "level": "A2",
+    "category": "9.2 Written Correspondence",
+    "spanish": "responder una carta",
+    "english": "to reply to a letter"
+  },
+  {
+    "level": "A2",
+    "category": "9.2 Written Correspondence",
+    "spanish": "dejar una nota",
+    "english": "to leave a note"
+  },
+  {
+    "level": "A2",
+    "category": "9.2 Written Correspondence",
+    "spanish": "ir a Correos",
+    "english": "to go to the post office"
+  },
+  {
+    "level": "A1",
+    "category": "9.3 Telephone",
+    "spanish": "el número de teléfono",
+    "english": "the phone number"
+  },
+  {
+    "level": "A1",
+    "category": "9.3 Telephone",
+    "spanish": "el teléfono fijo",
+    "english": "the landline"
+  },
+  {
+    "level": "A1",
+    "category": "9.3 Telephone",
+    "spanish": "el teléfono móvil",
+    "english": "the mobile phone"
+  },
+  {
+    "level": "A2",
+    "category": "9.3 Telephone",
+    "spanish": "la tarjeta telefónica",
+    "english": "the phone card"
+  },
+  {
+    "level": "A2",
+    "category": "9.3 Telephone",
+    "spanish": "la cabina",
+    "english": "the phone box"
+  },
+  {
+    "level": "A2",
+    "category": "9.3 Telephone",
+    "spanish": "llamar por teléfono",
+    "english": "to call/phone"
+  },
+  {
+    "level": "A2",
+    "category": "9.3 Telephone",
+    "spanish": "hablar por teléfono",
+    "english": "to talk on the phone"
+  },
+  {
+    "level": "A2",
+    "category": "9.3 Telephone",
+    "spanish": "dejar un mensaje",
+    "english": "to leave a message"
+  },
+  {
+    "level": "A1",
+    "category": "9.4 Written Press",
+    "spanish": "el quiosco",
+    "english": "the newsstand/kiosk"
+  },
+  {
+    "level": "A1",
+    "category": "9.4 Written Press",
+    "spanish": "leer un periódico",
+    "english": "to read a newspaper"
+  },
+  {
+    "level": "A1",
+    "category": "9.4 Written Press",
+    "spanish": "leer una revista",
+    "english": "to read a magazine"
+  },
+  {
+    "level": "A2",
+    "category": "9.4 Written Press",
+    "spanish": "la entrevista",
+    "english": "the interview"
+  },
+  {
+    "level": "A2",
+    "category": "9.4 Written Press",
+    "spanish": "el periodista",
+    "english": "the journalist"
+  },
+  {
+    "level": "A1",
+    "category": "9.5 Television and Radio",
+    "spanish": "ver la televisión",
+    "english": "to watch television"
+  },
+  {
+    "level": "A1",
+    "category": "9.5 Television and Radio",
+    "spanish": "escuchar la radio",
+    "english": "to listen to the radio"
+  },
+  {
+    "level": "A2",
+    "category": "9.5 Television and Radio",
+    "spanish": "el programa",
+    "english": "the programme"
+  },
+  {
+    "level": "A2",
+    "category": "9.5 Television and Radio",
+    "spanish": "los anuncios",
+    "english": "the adverts"
+  },
+  {
+    "level": "A2",
+    "category": "9.5 Television and Radio",
+    "spanish": "la publicidad",
+    "english": "the advertising"
+  },
+  {
+    "level": "A2",
+    "category": "9.5 Television and Radio",
+    "spanish": "el presentador",
+    "english": "the presenter/host"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "Internet",
+    "english": "internet"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "arroba",
+    "english": "at sign (@)"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "el guión",
+    "english": "the hyphen"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "el guión bajo",
+    "english": "the underscore"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "el punto",
+    "english": "the dot/full stop"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "la página web",
+    "english": "the web page"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "el correo electrónico",
+    "english": "the email"
+  },
+  {
+    "level": "A1",
+    "category": "9.6 Internet",
+    "spanish": "la dirección de Internet",
+    "english": "the web address"
+  },
+  {
+    "level": "A2",
+    "category": "9.6 Internet",
+    "spanish": "el foro de discusión",
+    "english": "the discussion forum"
+  },
+  {
+    "level": "A2",
+    "category": "9.6 Internet",
+    "spanish": "el chat",
+    "english": "the chat"
+  },
+  {
+    "level": "A2",
+    "category": "9.6 Internet",
+    "spanish": "el virus",
+    "english": "the virus"
+  },
+  {
+    "level": "A2",
+    "category": "9.6 Internet",
+    "spanish": "navegar por Internet",
+    "english": "to browse the internet"
+  },
+  {
+    "level": "A2",
+    "category": "9.6 Internet",
+    "spanish": "mandar un mensaje electrónico",
+    "english": "to send an email"
+  },
+  {
+    "level": "A1",
+    "category": "10.1 Housing Actions",
+    "spanish": "comprar un piso",
+    "english": "to buy a flat"
+  },
+  {
+    "level": "A1",
+    "category": "10.1 Housing Actions",
+    "spanish": "vender un piso",
+    "english": "to sell a flat"
+  },
+  {
+    "level": "A1",
+    "category": "10.1 Housing Actions",
+    "spanish": "alquilar un piso",
+    "english": "to rent a flat"
+  },
+  {
+    "level": "A2",
+    "category": "10.1 Housing Actions",
+    "spanish": "buscar piso",
+    "english": "to look for a flat"
+  },
+  {
+    "level": "A2",
+    "category": "10.1 Housing Actions",
+    "spanish": "compartir piso",
+    "english": "to share a flat"
+  },
+  {
+    "level": "A2",
+    "category": "10.1 Housing Actions",
+    "spanish": "cambiarse de casa",
+    "english": "to move house"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la casa",
+    "english": "the house"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el piso",
+    "english": "the flat/apartment"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el apartamento",
+    "english": "the apartment"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el estudio",
+    "english": "the studio flat"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la habitación",
+    "english": "the room"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el ascensor",
+    "english": "the lift/elevator"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la escalera",
+    "english": "the stairs"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la terraza",
+    "english": "the terrace"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el jardín",
+    "english": "the garden"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la ventana",
+    "english": "the window"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la puerta",
+    "english": "the door"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la sala de estar",
+    "english": "the living room"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el dormitorio",
+    "english": "the bedroom"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la cocina",
+    "english": "the kitchen"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el cuarto de baño",
+    "english": "the bathroom"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el salón",
+    "english": "the living room/lounge"
+  },
+  {
+    "level": "A1",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el garaje",
+    "english": "the garage"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el edificio",
+    "english": "the building"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el chalé",
+    "english": "the detached house/chalet"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el piso de estudiantes",
+    "english": "the student flat"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el pasillo",
+    "english": "the corridor/hallway"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el suelo",
+    "english": "the floor"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el techo",
+    "english": "the ceiling"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "la pared",
+    "english": "the wall"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el dormitorio de invitados",
+    "english": "the guest room"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "el propietario",
+    "english": "the owner"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "amueblado",
+    "english": "furnished"
+  },
+  {
+    "level": "A2",
+    "category": "10.2 Housing Characteristics",
+    "spanish": "sin amueblar",
+    "english": "unfurnished"
+  },
+  {
+    "level": "A2",
+    "category": "10.3 Domestic Activities",
+    "spanish": "limpio",
+    "english": "clean"
+  },
+  {
+    "level": "A2",
+    "category": "10.3 Domestic Activities",
+    "spanish": "sucio",
+    "english": "dirty"
+  },
+  {
+    "level": "A2",
+    "category": "10.3 Domestic Activities",
+    "spanish": "limpiar la casa",
+    "english": "to clean the house"
+  },
+  {
+    "level": "A2",
+    "category": "10.3 Domestic Activities",
+    "spanish": "lavar los platos",
+    "english": "to wash the dishes"
+  },
+  {
+    "level": "A2",
+    "category": "10.3 Domestic Activities",
+    "spanish": "lavar la ropa",
+    "english": "to wash the clothes"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la mesa",
+    "english": "the table"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la silla",
+    "english": "the chair"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la cama",
+    "english": "the bed"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el sofá",
+    "english": "the sofa"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el sillón",
+    "english": "the armchair"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el armario",
+    "english": "the wardrobe/cupboard"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la estantería",
+    "english": "the bookshelf"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la ducha",
+    "english": "the shower"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el lavabo",
+    "english": "the washbasin"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la radio",
+    "english": "the radio"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la televisión",
+    "english": "the television"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el vídeo",
+    "english": "the video"
+  },
+  {
+    "level": "A1",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el DVD",
+    "english": "the DVD"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la cocina eléctrica",
+    "english": "the electric cooker"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la cocina de gas",
+    "english": "the gas cooker"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la nevera",
+    "english": "the fridge"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "la lavadora",
+    "english": "the washing machine"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el lavaplatos",
+    "english": "the dishwasher"
+  },
+  {
+    "level": "A2",
+    "category": "10.4 Domestic Objects",
+    "spanish": "el microondas",
+    "english": "the microwave"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "la carta",
+    "english": "the letter"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "la postal",
+    "english": "the postcard"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "el sobre",
+    "english": "the envelope"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "el sello",
+    "english": "the stamp"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "el papel",
+    "english": "the paper"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "el código postal",
+    "english": "the postcode"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "el correos",
+    "english": "the post office"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "enviar una carta",
+    "english": "to send a letter"
+  },
+  {
+    "level": "A1",
+    "category": "11.1 Postal Service",
+    "spanish": "ir a Correos",
+    "english": "to go to the post office"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "el banco",
+    "english": "the bank"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "el dinero",
+    "english": "the money"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "el euro",
+    "english": "the euro"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "el céntimo",
+    "english": "the cent"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "la tarjeta de crédito",
+    "english": "the credit card"
+  },
+  {
+    "level": "A1",
+    "category": "11.3 Financial Services",
+    "spanish": "cambiar dinero",
+    "english": "to change money"
+  },
+  {
+    "level": "A2",
+    "category": "11.3 Financial Services",
+    "spanish": "la moneda",
+    "english": "the coin"
+  },
+  {
+    "level": "A2",
+    "category": "11.3 Financial Services",
+    "spanish": "el billete",
+    "english": "the banknote"
+  },
+  {
+    "level": "A2",
+    "category": "11.3 Financial Services",
+    "spanish": "el cajero automático",
+    "english": "the cash machine/ATM"
+  },
+  {
+    "level": "A1",
+    "category": "11.4 Health Services",
+    "spanish": "el hospital",
+    "english": "the hospital"
+  },
+  {
+    "level": "A1",
+    "category": "11.4 Health Services",
+    "spanish": "el médico",
+    "english": "the doctor"
+  },
+  {
+    "level": "A1",
+    "category": "11.4 Health Services",
+    "spanish": "la enfermera",
+    "english": "the nurse"
+  },
+  {
+    "level": "A2",
+    "category": "11.4 Health Services",
+    "spanish": "la Seguridad Social",
+    "english": "the National Health Service"
+  },
+  {
+    "level": "A2",
+    "category": "11.4 Health Services",
+    "spanish": "la ambulancia",
+    "english": "the ambulance"
+  },
+  {
+    "level": "A2",
+    "category": "11.4 Health Services",
+    "spanish": "la Cruz Roja",
+    "english": "the Red Cross"
+  },
+  {
+    "level": "A1",
+    "category": "11.6 Protection Services",
+    "spanish": "la policía",
+    "english": "the police"
+  },
+  {
+    "level": "A1",
+    "category": "11.6 Protection Services",
+    "spanish": "el bombero",
+    "english": "the firefighter"
+  },
+  {
+    "level": "A2",
+    "category": "11.6 Protection Services",
+    "spanish": "la comisaría de policía",
+    "english": "the police station"
+  },
+  {
+    "level": "A2",
+    "category": "11.6 Protection Services",
+    "spanish": "el socorro",
+    "english": "the help/SOS"
+  },
+  {
+    "level": "A2",
+    "category": "11.6 Protection Services",
+    "spanish": "llamar a la policía",
+    "english": "to call the police"
+  },
+  {
+    "level": "A2",
+    "category": "11.6 Protection Services",
+    "spanish": "llamar a los bomberos",
+    "english": "to call the fire brigade"
+  },
+  {
+    "level": "A2",
+    "category": "11.7 Social Services",
+    "spanish": "el teléfono de emergencia",
+    "english": "the emergency number"
+  },
+  {
+    "level": "A1",
+    "category": "12.1 Shops",
+    "spanish": "el supermercado",
+    "english": "the supermarket"
+  },
+  {
+    "level": "A1",
+    "category": "12.1 Shops",
+    "spanish": "la tienda",
+    "english": "the shop"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el centro comercial",
+    "english": "the shopping centre"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la papelería",
+    "english": "the stationery shop"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la peluquería",
+    "english": "the hairdresser's"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el quiosco",
+    "english": "the newsstand/kiosk"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el estanco",
+    "english": "the tobacconist's"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la frutería",
+    "english": "the fruit shop"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la carnicería",
+    "english": "the butcher's"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la panadería",
+    "english": "the bakery"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la tienda de ropa",
+    "english": "the clothes shop"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "la agencia de viajes",
+    "english": "the travel agency"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el frutero",
+    "english": "the fruit seller"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el carnicero",
+    "english": "the butcher"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el panadero",
+    "english": "the baker"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el dependiente",
+    "english": "the shop assistant"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "el cliente",
+    "english": "the customer"
+  },
+  {
+    "level": "A1",
+    "category": "12.1 Shops",
+    "spanish": "comprar",
+    "english": "to buy"
+  },
+  {
+    "level": "A1",
+    "category": "12.1 Shops",
+    "spanish": "vender",
+    "english": "to sell"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "devolver",
+    "english": "to return"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "cambiar",
+    "english": "to exchange"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "ir de compras",
+    "english": "to go shopping"
+  },
+  {
+    "level": "A2",
+    "category": "12.1 Shops",
+    "spanish": "hacer la compra",
+    "english": "to do the shopping"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "los pantalones",
+    "english": "the trousers"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "los vaqueros",
+    "english": "the jeans"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "la falda",
+    "english": "the skirt"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "la camisa",
+    "english": "the shirt"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "el jersey",
+    "english": "the jumper/sweater"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "los zapatos",
+    "english": "the shoes"
+  },
+  {
+    "level": "A1",
+    "category": "12.2 Clothing",
+    "spanish": "el bolso",
+    "english": "the handbag"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "la blusa",
+    "english": "the blouse"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el traje",
+    "english": "the suit"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el pijama",
+    "english": "the pyjamas"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "la cazadora",
+    "english": "the jacket"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "la gorra",
+    "english": "the cap"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el sombrero",
+    "english": "the hat"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el pañuelo",
+    "english": "the scarf/handkerchief"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "los guantes",
+    "english": "the gloves"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "la bufanda",
+    "english": "the scarf"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el sujetador",
+    "english": "the bra"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "la braga",
+    "english": "the knickers/underpants"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el calzoncillo",
+    "english": "the underpants"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "las medias",
+    "english": "the tights/stockings"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "los calcetines",
+    "english": "the socks"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el bañador",
+    "english": "the swimming costume"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el biquini",
+    "english": "the bikini"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "las botas",
+    "english": "the boots"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "el probador",
+    "english": "the fitting room"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "ponerse",
+    "english": "to put on"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "quitarse",
+    "english": "to take off"
+  },
+  {
+    "level": "A2",
+    "category": "12.2 Clothing",
+    "spanish": "probarse",
+    "english": "to try on"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "la docena de huevos",
+    "english": "the dozen eggs"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "la lata de tomate",
+    "english": "the can of tomatoes"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "la lata de atún",
+    "english": "the can of tuna"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "el paquete de harina",
+    "english": "the packet of flour"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "el paquete de arroz",
+    "english": "the packet of rice"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "la caja de galletas",
+    "english": "the box of biscuits"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "el bote de mermelada",
+    "english": "the jar of jam"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "el litro de leche",
+    "english": "the litre of milk"
+  },
+  {
+    "level": "A1",
+    "category": "12.3 Food Shopping",
+    "spanish": "el kilo de patatas",
+    "english": "the kilo of potatoes"
+  },
+  {
+    "level": "A2",
+    "category": "12.3 Food Shopping",
+    "spanish": "hacer la lista de la compra",
+    "english": "to make a shopping list"
+  },
+  {
+    "level": "A2",
+    "category": "12.3 Food Shopping",
+    "spanish": "pesar",
+    "english": "to weigh"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "el precio",
+    "english": "the price"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "el dinero",
+    "english": "the money"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "el billete",
+    "english": "the banknote"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "el euro",
+    "english": "the euro"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "la tarjeta",
+    "english": "the card"
+  },
+  {
+    "level": "A1",
+    "category": "12.4 Payments",
+    "spanish": "pagar con tarjeta",
+    "english": "to pay by card"
+  },
+  {
+    "level": "A2",
+    "category": "12.4 Payments",
+    "spanish": "la propina",
+    "english": "the tip"
+  },
+  {
+    "level": "A2",
+    "category": "12.4 Payments",
+    "spanish": "con IVA",
+    "english": "with VAT"
+  },
+  {
+    "level": "A2",
+    "category": "12.4 Payments",
+    "spanish": "sin IVA",
+    "english": "without VAT"
+  },
+  {
+    "level": "A2",
+    "category": "12.4 Payments",
+    "spanish": "pagar en efectivo",
+    "english": "to pay cash"
+  },
+  {
+    "level": "A1",
+    "category": "13.1 Health",
+    "spanish": "estar enfermo",
+    "english": "to be ill"
+  },
+  {
+    "level": "A1",
+    "category": "13.1 Health",
+    "spanish": "estar malo",
+    "english": "to be ill/unwell"
+  },
+  {
+    "level": "A1",
+    "category": "13.1 Health",
+    "spanish": "sentirse bien",
+    "english": "to feel well"
+  },
+  {
+    "level": "A1",
+    "category": "13.1 Health",
+    "spanish": "sentirse mal",
+    "english": "to feel unwell"
+  },
+  {
+    "level": "A1",
+    "category": "13.1 Health",
+    "spanish": "tener gripe",
+    "english": "to have the flu"
+  },
+  {
+    "level": "A2",
+    "category": "13.1 Health",
+    "spanish": "tener alergia",
+    "english": "to have an allergy"
+  },
+  {
+    "level": "A2",
+    "category": "13.1 Health",
+    "spanish": "tener fiebre",
+    "english": "to have a fever"
+  },
+  {
+    "level": "A2",
+    "category": "13.1 Health",
+    "spanish": "tener tos",
+    "english": "to have a cough"
+  },
+  {
+    "level": "A2",
+    "category": "13.1 Health",
+    "spanish": "llevar una vida sana",
+    "english": "to lead a healthy life"
+  },
+  {
+    "level": "A1",
+    "category": "13.3 Symptoms",
+    "spanish": "tener dolor de cabeza",
+    "english": "to have a headache"
+  },
+  {
+    "level": "A1",
+    "category": "13.3 Symptoms",
+    "spanish": "tener dolor de espalda",
+    "english": "to have a backache"
+  },
+  {
+    "level": "A1",
+    "category": "13.3 Symptoms",
+    "spanish": "tener dolor de estómago",
+    "english": "to have a stomachache"
+  },
+  {
+    "level": "A2",
+    "category": "13.3 Symptoms",
+    "spanish": "tener tos",
+    "english": "to have a cough"
+  },
+  {
+    "level": "A2",
+    "category": "13.3 Symptoms",
+    "spanish": "tener fiebre",
+    "english": "to have a fever"
+  },
+  {
+    "level": "A2",
+    "category": "13.3 Symptoms",
+    "spanish": "doler",
+    "english": "to hurt/ache"
+  },
+  {
+    "level": "A2",
+    "category": "13.3 Symptoms",
+    "spanish": "estar cansado",
+    "english": "to be tired"
+  },
+  {
+    "level": "A1",
+    "category": "13.4 Health Centres",
+    "spanish": "el médico",
+    "english": "the doctor"
+  },
+  {
+    "level": "A2",
+    "category": "13.4 Health Centres",
+    "spanish": "el enfermero",
+    "english": "the nurse"
+  },
+  {
+    "level": "A1",
+    "category": "13.4 Health Centres",
+    "spanish": "ir al hospital",
+    "english": "to go to the hospital"
+  },
+  {
+    "level": "A1",
+    "category": "13.4 Health Centres",
+    "spanish": "ir al médico",
+    "english": "to go to the doctor"
+  },
+  {
+    "level": "A2",
+    "category": "13.4 Health Centres",
+    "spanish": "la Seguridad Social",
+    "english": "the National Health Service"
+  },
+  {
+    "level": "A2",
+    "category": "13.4 Health Centres",
+    "spanish": "la ambulancia",
+    "english": "the ambulance"
+  },
+  {
+    "level": "A2",
+    "category": "13.4 Health Centres",
+    "spanish": "las urgencias",
+    "english": "the accident and emergency/ER"
+  },
+  {
+    "level": "A1",
+    "category": "13.5 Medicine",
+    "spanish": "la farmacia",
+    "english": "the pharmacy"
+  },
+  {
+    "level": "A1",
+    "category": "13.5 Medicine",
+    "spanish": "tomar una medicina",
+    "english": "to take medicine"
+  },
+  {
+    "level": "A2",
+    "category": "13.5 Medicine",
+    "spanish": "tomar un medicamento",
+    "english": "to take medication"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "el agua",
+    "english": "the water"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "el jabón",
+    "english": "the soap"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "lavarse la cara",
+    "english": "to wash one's face"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "lavarse las manos",
+    "english": "to wash one's hands"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "lavarse el pelo",
+    "english": "to wash one's hair"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "lavarse los dientes",
+    "english": "to brush one's teeth"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "ducharse",
+    "english": "to shower"
+  },
+  {
+    "level": "A1",
+    "category": "13.6 Hygiene",
+    "spanish": "bañarse",
+    "english": "to have a bath"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la ducha",
+    "english": "the shower"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la bañera",
+    "english": "the bath/bathtub"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la toalla",
+    "english": "the towel"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "el champú",
+    "english": "the shampoo"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "el gel",
+    "english": "the shower gel"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la crema",
+    "english": "the cream"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la colonia",
+    "english": "the cologne/perfume"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "el desodorante",
+    "english": "the deodorant"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "el cepillo de dientes",
+    "english": "the toothbrush"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "la pasta de dientes",
+    "english": "the toothpaste"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "afeitarse",
+    "english": "to shave"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "peinarse",
+    "english": "to comb one's hair"
+  },
+  {
+    "level": "A2",
+    "category": "13.6 Hygiene",
+    "spanish": "cepillarse los dientes",
+    "english": "to brush one's teeth"
+  },
+  {
+    "level": "A2",
+    "category": "13.7 Aesthetics",
+    "spanish": "tener el pelo largo",
+    "english": "to have long hair"
+  },
+  {
+    "level": "A2",
+    "category": "13.7 Aesthetics",
+    "spanish": "tener el pelo corto",
+    "english": "to have short hair"
+  },
+  {
+    "level": "A2",
+    "category": "13.7 Aesthetics",
+    "spanish": "tener el pelo rizado",
+    "english": "to have curly hair"
+  },
+  {
+    "level": "A2",
+    "category": "13.7 Aesthetics",
+    "spanish": "tener el pelo liso",
+    "english": "to have straight hair"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el carné de identidad",
+    "english": "the identity card"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el pasaporte",
+    "english": "the passport"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "la maleta",
+    "english": "the suitcase"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el bolso",
+    "english": "the handbag"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el plano",
+    "english": "the street map"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el mapa",
+    "english": "the map"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "comprar un billete de ida",
+    "english": "to buy a one-way ticket"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "comprar un billete de ida y vuelta",
+    "english": "to buy a return ticket"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "las vacaciones",
+    "english": "the holidays"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el turista",
+    "english": "the tourist"
+  },
+  {
+    "level": "A1",
+    "category": "14.1 Travel",
+    "spanish": "el horario",
+    "english": "the timetable"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "deshacer las maletas",
+    "english": "to unpack"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "tener un seguro de viaje",
+    "english": "to have travel insurance"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "reservar un billete de tren",
+    "english": "to book a train ticket"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "reservar un billete de avión",
+    "english": "to book a plane ticket"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "el guía turístico",
+    "english": "the tour guide"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "el vuelo",
+    "english": "the flight"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "la excursión",
+    "english": "the excursion/trip"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "viajar en avión",
+    "english": "to travel by plane"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "viajar en barco",
+    "english": "to travel by ship"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "viajar en tren",
+    "english": "to travel by train"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "viajar en coche",
+    "english": "to travel by car"
+  },
+  {
+    "level": "A2",
+    "category": "14.1 Travel",
+    "spanish": "viajar en autobús",
+    "english": "to travel by bus"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "el hotel",
+    "english": "the hotel"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "la habitación",
+    "english": "the room"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "el camping",
+    "english": "the campsite"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "la habitación doble",
+    "english": "the double room"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "la habitación individual",
+    "english": "the single room"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "la pensión completa",
+    "english": "the full board"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "la media pensión",
+    "english": "the half board"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "el alojamiento y desayuno",
+    "english": "the bed and breakfast"
+  },
+  {
+    "level": "A1",
+    "category": "14.2 Accommodation",
+    "spanish": "reservar",
+    "english": "to reserve/book"
+  },
+  {
+    "level": "A2",
+    "category": "14.2 Accommodation",
+    "spanish": "hacer una reserva",
+    "english": "to make a reservation"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la calle",
+    "english": "the street"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la carretera",
+    "english": "the road"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el aeropuerto",
+    "english": "the airport"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el puerto",
+    "english": "the port"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la estación de tren",
+    "english": "the train station"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la estación de metro",
+    "english": "the underground station"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la parada de autobús",
+    "english": "the bus stop"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la parada de taxi",
+    "english": "the taxi rank"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "la parada de metro",
+    "english": "the metro stop"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el coche",
+    "english": "the car"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el metro",
+    "english": "the underground/metro"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el tren",
+    "english": "the train"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el autobús",
+    "english": "the bus"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el taxi",
+    "english": "the taxi"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el conductor",
+    "english": "the driver"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el taxista",
+    "english": "the taxi driver"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el aparcamiento",
+    "english": "the car park"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el garaje",
+    "english": "the garage"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el avión",
+    "english": "the plane"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el barco",
+    "english": "the ship/boat"
+  },
+  {
+    "level": "A1",
+    "category": "14.3 Transport",
+    "spanish": "el carné de conducir",
+    "english": "the driving licence"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "la boca de metro",
+    "english": "the metro entrance"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "el ciclista",
+    "english": "the cyclist"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "coger un taxi",
+    "english": "to take a taxi"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "coger el metro",
+    "english": "to take the underground"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "montar en bicicleta",
+    "english": "to ride a bike"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "montar en moto",
+    "english": "to ride a motorbike"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "piloto",
+    "english": "pilot"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "la azafata",
+    "english": "the flight attendant"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "la rueda",
+    "english": "the tyre/wheel"
+  },
+  {
+    "level": "A2",
+    "category": "14.3 Transport",
+    "spanish": "el mecánico",
+    "english": "the mechanic"
+  },
+  {
+    "level": "A1",
+    "category": "15.1 Finance",
+    "spanish": "el dinero",
+    "english": "the money"
+  },
+  {
+    "level": "A1",
+    "category": "15.1 Finance",
+    "spanish": "la tarjeta",
+    "english": "the card"
+  },
+  {
+    "level": "A1",
+    "category": "15.1 Finance",
+    "spanish": "caro",
+    "english": "expensive"
+  },
+  {
+    "level": "A1",
+    "category": "15.1 Finance",
+    "spanish": "barato",
+    "english": "cheap"
+  },
+  {
+    "level": "A1",
+    "category": "15.1 Finance",
+    "spanish": "cambiar dinero",
+    "english": "to change money"
+  },
+  {
+    "level": "A2",
+    "category": "15.1 Finance",
+    "spanish": "el cheque",
+    "english": "the cheque"
+  },
+  {
+    "level": "A2",
+    "category": "15.1 Finance",
+    "spanish": "la moneda",
+    "english": "the coin"
+  },
+  {
+    "level": "A2",
+    "category": "15.1 Finance",
+    "spanish": "el billete",
+    "english": "the banknote"
+  },
+  {
+    "level": "A2",
+    "category": "15.1 Finance",
+    "spanish": "rico",
+    "english": "rich"
+  },
+  {
+    "level": "A2",
+    "category": "15.1 Finance",
+    "spanish": "pobre",
+    "english": "poor"
+  },
+  {
+    "level": "A1",
+    "category": "15.3 Commerce",
+    "spanish": "el vendedor",
+    "english": "the seller"
+  },
+  {
+    "level": "A1",
+    "category": "15.3 Commerce",
+    "spanish": "el comprador",
+    "english": "the buyer"
+  },
+  {
+    "level": "A1",
+    "category": "15.3 Commerce",
+    "spanish": "comprar",
+    "english": "to buy"
+  },
+  {
+    "level": "A1",
+    "category": "15.3 Commerce",
+    "spanish": "vender",
+    "english": "to sell"
+  },
+  {
+    "level": "A1",
+    "category": "15.3 Commerce",
+    "spanish": "pagar con tarjeta",
+    "english": "to pay by card"
+  },
+  {
+    "level": "A2",
+    "category": "15.3 Commerce",
+    "spanish": "el negocio",
+    "english": "the business"
+  },
+  {
+    "level": "A2",
+    "category": "15.3 Commerce",
+    "spanish": "pagar en efectivo",
+    "english": "to pay cash"
+  },
+  {
+    "level": "A2",
+    "category": "15.3 Commerce",
+    "spanish": "la publicidad",
+    "english": "the advertising"
+  },
+  {
+    "level": "A2",
+    "category": "15.3 Commerce",
+    "spanish": "el anuncio",
+    "english": "the advert"
+  },
+  {
+    "level": "A1",
+    "category": "15.4 Companies",
+    "spanish": "la empresa",
+    "english": "the company"
+  },
+  {
+    "level": "A1",
+    "category": "15.4 Companies",
+    "spanish": "la oficina",
+    "english": "the office"
+  },
+  {
+    "level": "A1",
+    "category": "15.4 Companies",
+    "spanish": "la tienda",
+    "english": "the shop"
+  },
+  {
+    "level": "A1",
+    "category": "15.4 Companies",
+    "spanish": "el jefe",
+    "english": "the boss"
+  },
+  {
+    "level": "A1",
+    "category": "15.4 Companies",
+    "spanish": "el director",
+    "english": "the director"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "la fábrica",
+    "english": "the factory"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el negocio",
+    "english": "the business"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el despacho",
+    "english": "the office/study"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el empresario",
+    "english": "the businessman"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el presidente",
+    "english": "the president/chairman"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el empleado",
+    "english": "the employee"
+  },
+  {
+    "level": "A2",
+    "category": "15.4 Companies",
+    "spanish": "el cliente",
+    "english": "the customer"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "la fábrica",
+    "english": "the factory"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "el empresario",
+    "english": "the businessman"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "el agricultor",
+    "english": "the farmer"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "el cerdo",
+    "english": "the pig"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "la vaca",
+    "english": "the cow"
+  },
+  {
+    "level": "A2",
+    "category": "15.5 Industry",
+    "spanish": "el cordero",
+    "english": "the lamb"
+  },
+  {
+    "level": "A1",
+    "category": "15.5 Industry",
+    "spanish": "el pescado",
+    "english": "the fish"
+  },
+  {
+    "level": "A1",
+    "category": "16.1 Science and Technology",
+    "spanish": "la ciencia",
+    "english": "the science"
+  },
+  {
+    "level": "A1",
+    "category": "16.1 Science and Technology",
+    "spanish": "la tecnología",
+    "english": "the technology"
+  },
+  {
+    "level": "A2",
+    "category": "16.1 Science and Technology",
+    "spanish": "el científico",
+    "english": "the scientist"
+  },
+  {
+    "level": "A1",
+    "category": "16.3 Mathematics",
+    "spanish": "el número",
+    "english": "the number"
+  },
+  {
+    "level": "A2",
+    "category": "16.3 Mathematics",
+    "spanish": "Matemáticas",
+    "english": "Mathematics"
+  },
+  {
+    "level": "A1",
+    "category": "16.4 Computing",
+    "spanish": "el ordenador",
+    "english": "the computer"
+  },
+  {
+    "level": "A1",
+    "category": "16.4 Computing",
+    "spanish": "Internet",
+    "english": "internet"
+  },
+  {
+    "level": "A1",
+    "category": "16.4 Computing",
+    "spanish": "el correo electrónico",
+    "english": "the email"
+  },
+  {
+    "level": "A1",
+    "category": "16.4 Computing",
+    "spanish": "la página web",
+    "english": "the web page"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el ordenador portátil",
+    "english": "the laptop"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el PC",
+    "english": "the PC"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "la informática",
+    "english": "the computing/IT"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el informático",
+    "english": "the IT specialist"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el CD-ROM",
+    "english": "the CD-ROM"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el DVD",
+    "english": "the DVD"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el programa",
+    "english": "the programme/software"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "navegar por Internet",
+    "english": "to browse the internet"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "chatear",
+    "english": "to chat online"
+  },
+  {
+    "level": "A2",
+    "category": "16.4 Computing",
+    "spanish": "el virus",
+    "english": "the virus"
+  },
+  {
+    "level": "A1",
+    "category": "17.1 Society",
+    "spanish": "el vecino",
+    "english": "the neighbour"
+  },
+  {
+    "level": "A2",
+    "category": "17.1 Society",
+    "spanish": "amable",
+    "english": "kind"
+  },
+  {
+    "level": "A2",
+    "category": "17.1 Society",
+    "spanish": "agradable",
+    "english": "pleasant"
+  },
+  {
+    "level": "A2",
+    "category": "17.1 Society",
+    "spanish": "generoso",
+    "english": "generous"
+  },
+  {
+    "level": "A2",
+    "category": "17.1 Society",
+    "spanish": "egoísta",
+    "english": "selfish"
+  },
+  {
+    "level": "A2",
+    "category": "17.1 Society",
+    "spanish": "la educación",
+    "english": "the manners/education"
+  },
+  {
+    "level": "A1",
+    "category": "17.2 Politics",
+    "spanish": "el país",
+    "english": "the country"
+  },
+  {
+    "level": "A1",
+    "category": "17.2 Politics",
+    "spanish": "la capital",
+    "english": "the capital city"
+  },
+  {
+    "level": "A1",
+    "category": "17.2 Politics",
+    "spanish": "el presidente",
+    "english": "the president"
+  },
+  {
+    "level": "A1",
+    "category": "17.2 Politics",
+    "spanish": "el rey",
+    "english": "the king"
+  },
+  {
+    "level": "A1",
+    "category": "17.2 Politics",
+    "spanish": "la reina",
+    "english": "the queen"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "el gobierno",
+    "english": "the government"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "la política",
+    "english": "the politics"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "el partido político",
+    "english": "the political party"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "el ministro",
+    "english": "the minister"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "el príncipe",
+    "english": "the prince"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "la princesa",
+    "english": "the princess"
+  },
+  {
+    "level": "A2",
+    "category": "17.2 Politics",
+    "spanish": "el Ayuntamiento",
+    "english": "the town hall/city council"
+  },
+  {
+    "level": "A1",
+    "category": "17.3 Law and Justice",
+    "spanish": "el abogado",
+    "english": "the lawyer"
+  },
+  {
+    "level": "A2",
+    "category": "17.3 Law and Justice",
+    "spanish": "el juez",
+    "english": "the judge"
+  },
+  {
+    "level": "A1",
+    "category": "17.4 Military",
+    "spanish": "el ejército",
+    "english": "the army"
+  },
+  {
+    "level": "A2",
+    "category": "17.4 Military",
+    "spanish": "la guerra",
+    "english": "the war"
+  },
+  {
+    "level": "A2",
+    "category": "17.4 Military",
+    "spanish": "la paz",
+    "english": "the peace"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "el cine",
+    "english": "the cinema"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "el teatro",
+    "english": "the theatre"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "la música",
+    "english": "the music"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "la película",
+    "english": "the film"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "el concierto",
+    "english": "the concert"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "la foto",
+    "english": "the photo"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "el museo",
+    "english": "the museum"
+  },
+  {
+    "level": "A1",
+    "category": "18.1 Arts",
+    "spanish": "la exposición",
+    "english": "the exhibition"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "el arte",
+    "english": "the art"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "el artista",
+    "english": "the artist"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la fotografía",
+    "english": "the photography"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la literatura",
+    "english": "the literature"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "el monumento",
+    "english": "the monument"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la estatua",
+    "english": "the statue"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la novela",
+    "english": "the novel"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la poesía",
+    "english": "the poetry"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "la obra de teatro",
+    "english": "the theatre play"
+  },
+  {
+    "level": "A2",
+    "category": "18.1 Arts",
+    "spanish": "el cuadro",
+    "english": "the painting"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "la música",
+    "english": "the music"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "el cantante",
+    "english": "the singer"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "cantar",
+    "english": "to sing"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "bailar",
+    "english": "to dance"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "escuchar música",
+    "english": "to listen to music"
+  },
+  {
+    "level": "A1",
+    "category": "18.2 Music and Dance",
+    "spanish": "ir a un concierto",
+    "english": "to go to a concert"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el músico",
+    "english": "the musician"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "la canción",
+    "english": "the song"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "la guitarra",
+    "english": "the guitar"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el piano",
+    "english": "the piano"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el violín",
+    "english": "the violin"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el flamenco",
+    "english": "the flamenco"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "la ópera",
+    "english": "the opera"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "rock",
+    "english": "rock"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "pop",
+    "english": "pop"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "jazz",
+    "english": "jazz"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el tango",
+    "english": "the tango"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "la salsa",
+    "english": "the salsa"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "el musical",
+    "english": "the musical"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "la música clásica",
+    "english": "the classical music"
+  },
+  {
+    "level": "A2",
+    "category": "18.2 Music and Dance",
+    "spanish": "tocar un instrumento",
+    "english": "to play an instrument"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el museo",
+    "english": "the museum"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "la exposición",
+    "english": "the exhibition"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el edificio",
+    "english": "the building"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el monumento",
+    "english": "the monument"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "la catedral",
+    "english": "the cathedral"
+  },
+  {
+    "level": "A1",
+    "category": "18.3 Architecture and Art",
+    "spanish": "la iglesia",
+    "english": "the church"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el arquitecto",
+    "english": "the architect"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el pintor",
+    "english": "the painter"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el dibujo",
+    "english": "the drawing"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el cuadro",
+    "english": "the painting"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "la estatua",
+    "english": "the statue"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el palacio",
+    "english": "the palace"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "el castillo",
+    "english": "the castle"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "dibujar",
+    "english": "to draw"
+  },
+  {
+    "level": "A2",
+    "category": "18.3 Architecture and Art",
+    "spanish": "pintar",
+    "english": "to paint"
+  },
+  {
+    "level": "A1",
+    "category": "18.4 Literature",
+    "spanish": "el libro",
+    "english": "the book"
+  },
+  {
+    "level": "A1",
+    "category": "18.4 Literature",
+    "spanish": "escribir",
+    "english": "to write"
+  },
+  {
+    "level": "A1",
+    "category": "18.4 Literature",
+    "spanish": "leer",
+    "english": "to read"
+  },
+  {
+    "level": "A2",
+    "category": "18.4 Literature",
+    "spanish": "la literatura",
+    "english": "the literature"
+  },
+  {
+    "level": "A2",
+    "category": "18.4 Literature",
+    "spanish": "el escritor",
+    "english": "the writer"
+  },
+  {
+    "level": "A2",
+    "category": "18.4 Literature",
+    "spanish": "la novela",
+    "english": "the novel"
+  },
+  {
+    "level": "A2",
+    "category": "18.4 Literature",
+    "spanish": "la poesía",
+    "english": "the poetry"
+  },
+  {
+    "level": "A2",
+    "category": "18.4 Literature",
+    "spanish": "el cuento",
+    "english": "the short story/tale"
+  },
+  {
+    "level": "A1",
+    "category": "18.5 Photography",
+    "spanish": "la foto",
+    "english": "the photo"
+  },
+  {
+    "level": "A2",
+    "category": "18.5 Photography",
+    "spanish": "la fotografía",
+    "english": "the photography"
+  },
+  {
+    "level": "A2",
+    "category": "18.5 Photography",
+    "spanish": "el fotógrafo",
+    "english": "the photographer"
+  },
+  {
+    "level": "A2",
+    "category": "18.5 Photography",
+    "spanish": "la cámara de fotos",
+    "english": "the camera"
+  },
+  {
+    "level": "A2",
+    "category": "18.5 Photography",
+    "spanish": "hacer fotos",
+    "english": "to take photos"
+  },
+  {
+    "level": "A2",
+    "category": "18.5 Photography",
+    "spanish": "ver una exposición",
+    "english": "to visit an exhibition"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "el cine",
+    "english": "the cinema"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "el teatro",
+    "english": "the theatre"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "la película",
+    "english": "the film"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "el actor",
+    "english": "the actor"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "la actriz",
+    "english": "the actress"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "ir al cine",
+    "english": "to go to the cinema"
+  },
+  {
+    "level": "A1",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "ir al teatro",
+    "english": "to go to the theatre"
+  },
+  {
+    "level": "A2",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "el director",
+    "english": "the director"
+  },
+  {
+    "level": "A2",
+    "category": "18.6 Cinema and Theatre",
+    "spanish": "la obra de teatro",
+    "english": "the theatre play"
+  },
+  {
+    "level": "A1",
+    "category": "19.1 Religion",
+    "spanish": "la religión",
+    "english": "the religion"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "cristiano",
+    "english": "Christian"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "judío",
+    "english": "Jewish"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "musulmán",
+    "english": "Muslim"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "budista",
+    "english": "Buddhist"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "ir a la iglesia",
+    "english": "to go to church"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "ir a la mezquita",
+    "english": "to go to the mosque"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "ir a la sinagoga",
+    "english": "to go to the synagogue"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "la Iglesia",
+    "english": "the Church"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "Navidad",
+    "english": "Christmas"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "Ramadán",
+    "english": "Ramadan"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "Sabbat",
+    "english": "Sabbath"
+  },
+  {
+    "level": "A2",
+    "category": "19.1 Religion",
+    "spanish": "creer en Dios",
+    "english": "to believe in God"
+  },
+  {
+    "level": "A1",
+    "category": "20.1 Universe",
+    "spanish": "el sol",
+    "english": "the sun"
+  },
+  {
+    "level": "A1",
+    "category": "20.1 Universe",
+    "spanish": "el mundo",
+    "english": "the world"
+  },
+  {
+    "level": "A1",
+    "category": "20.1 Universe",
+    "spanish": "el cielo",
+    "english": "the sky"
+  },
+  {
+    "level": "A2",
+    "category": "20.1 Universe",
+    "spanish": "la luna",
+    "english": "the moon"
+  },
+  {
+    "level": "A2",
+    "category": "20.1 Universe",
+    "spanish": "la estrella",
+    "english": "the star"
+  },
+  {
+    "level": "A2",
+    "category": "20.1 Universe",
+    "spanish": "el planeta",
+    "english": "the planet"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el mapa",
+    "english": "the map"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el lugar",
+    "english": "the place"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el país",
+    "english": "the country"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el pueblo",
+    "english": "the town/village"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "la ciudad",
+    "english": "the city"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "la capital",
+    "english": "the capital city"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "Norte",
+    "english": "North"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "Sur",
+    "english": "South"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "Este",
+    "english": "East"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "Oeste",
+    "english": "West"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "la montaña",
+    "english": "the mountain"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el mar",
+    "english": "the sea"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "el río",
+    "english": "the river"
+  },
+  {
+    "level": "A1",
+    "category": "20.2 Geography",
+    "spanish": "la playa",
+    "english": "the beach"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "la región",
+    "english": "the region"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "Noroeste",
+    "english": "Northwest"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "Nordeste",
+    "english": "Northeast"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "Suroeste",
+    "english": "Southwest"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "Sudeste",
+    "english": "Southeast"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "la isla",
+    "english": "the island"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "el desierto",
+    "english": "the desert"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "el bosque",
+    "english": "the forest"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "la costa",
+    "english": "the coast"
+  },
+  {
+    "level": "A2",
+    "category": "20.2 Geography",
+    "spanish": "el interior",
+    "english": "the inland"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el centro",
+    "english": "the city centre"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la casa",
+    "english": "the house"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la calle",
+    "english": "the street"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la plaza",
+    "english": "the square"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el parque",
+    "english": "the park"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el restaurante",
+    "english": "the restaurant"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la tienda",
+    "english": "the shop"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el hospital",
+    "english": "the hospital"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la iglesia",
+    "english": "the church"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el colegio",
+    "english": "the school"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "escuela",
+    "english": "school"
+  },
+  {
+    "level": "A1",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el museo",
+    "english": "the museum"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "habitante",
+    "english": "inhabitant"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el barrio",
+    "english": "the neighbourhood/district"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la esquina",
+    "english": "the corner"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el ayuntamiento",
+    "english": "the town hall"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la catedral",
+    "english": "the cathedral"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el castillo",
+    "english": "the castle"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el palacio",
+    "english": "the palace"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la plaza mayor",
+    "english": "the main square"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el monumento",
+    "english": "the monument"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la estatua",
+    "english": "the statue"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la calle peatonal",
+    "english": "the pedestrian street"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el campo",
+    "english": "the countryside"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el pueblo",
+    "english": "the village"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "la naturaleza",
+    "english": "the nature"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el bosque",
+    "english": "the forest"
+  },
+  {
+    "level": "A2",
+    "category": "20.3 Urban Spaces",
+    "spanish": "el jardín",
+    "english": "the garden"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "la primavera",
+    "english": "the spring"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "el verano",
+    "english": "the summer"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "el otoño",
+    "english": "the autumn"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "el invierno",
+    "english": "the winter"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "llover",
+    "english": "to rain"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "nevar",
+    "english": "to snow"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer frío",
+    "english": "to be cold (weather)"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer calor",
+    "english": "to be hot (weather)"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer sol",
+    "english": "to be sunny"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer viento",
+    "english": "to be windy"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer buen tiempo",
+    "english": "to have good weather"
+  },
+  {
+    "level": "A1",
+    "category": "20.4 Climate",
+    "spanish": "hacer mal tiempo",
+    "english": "to have bad weather"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "la lluvia",
+    "english": "the rain"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "la nieve",
+    "english": "the snow"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "la niebla",
+    "english": "the fog"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "la tormenta",
+    "english": "the storm"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "la nube",
+    "english": "the cloud"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "el aire",
+    "english": "the air"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "el viento del norte",
+    "english": "the north wind"
+  },
+  {
+    "level": "A2",
+    "category": "20.4 Climate",
+    "spanish": "el viento del sur",
+    "english": "the south wind"
+  },
+  {
+    "level": "A1",
+    "category": "20.5 Animals",
+    "spanish": "el animal",
+    "english": "the animal"
+  },
+  {
+    "level": "A1",
+    "category": "20.5 Animals",
+    "spanish": "el perro",
+    "english": "the dog"
+  },
+  {
+    "level": "A1",
+    "category": "20.5 Animals",
+    "spanish": "el gato",
+    "english": "the cat"
+  },
+  {
+    "level": "A1",
+    "category": "20.5 Animals",
+    "spanish": "el pájaro",
+    "english": "the bird"
+  },
+  {
+    "level": "A1",
+    "category": "20.5 Animals",
+    "spanish": "el pez",
+    "english": "the fish"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "el caballo",
+    "english": "the horse"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "la vaca",
+    "english": "the cow"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "el cerdo",
+    "english": "the pig"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "la mosca",
+    "english": "the fly"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "el mosquito",
+    "english": "the mosquito"
+  },
+  {
+    "level": "A2",
+    "category": "20.5 Animals",
+    "spanish": "la araña",
+    "english": "the spider"
+  },
+  {
+    "level": "A1",
+    "category": "20.6 Plants",
+    "spanish": "la planta",
+    "english": "the plant"
+  },
+  {
+    "level": "A1",
+    "category": "20.6 Plants",
+    "spanish": "la flor",
+    "english": "the flower"
+  },
+  {
+    "level": "A1",
+    "category": "20.6 Plants",
+    "spanish": "el árbol",
+    "english": "the tree"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "la rosa",
+    "english": "the rose"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "la margarita",
+    "english": "the daisy"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "el bosque",
+    "english": "the forest"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "la hoja",
+    "english": "the leaf"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "el pino",
+    "english": "the pine tree"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "el olivo",
+    "english": "the olive tree"
+  },
+  {
+    "level": "A2",
+    "category": "20.6 Plants",
+    "spanish": "el ramo de flores",
+    "english": "the bouquet of flowers"
+  }
+]
