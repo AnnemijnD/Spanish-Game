@@ -814,7 +814,11 @@ function handleCorrect() {
   correctSet.add(currentWord.spanish);
 
   document.getElementById('answer-input').classList.add('right');
-  document.getElementById('answer-input').disabled = true;
+  // document.getElementById('answer-input').disabled = true;
+  const inp = document.getElementById('answer-input');
+  inp.readOnly = true;     // keeps focus + keyboard open
+  inp.classList.add('right');
+
 
   const card = document.getElementById('card');
   card.classList.add('correct-flash');
@@ -852,7 +856,7 @@ function handleWrong(input) {
   }
 
   setTimeout(() => {
-    // resetInput();
+    resetInput();
     clearFeedback();
     updateProgress();
   }, 1800);
@@ -871,7 +875,8 @@ function clearFeedback() {
 function resetInput() {
   const inp = document.getElementById('answer-input');
   inp.value    = '';
-  inp.disabled = false;
+  // inp.disabled = false;
+  inp.readOnly = false;
   inp.className = '';
   inp.focus();
 }
