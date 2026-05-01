@@ -581,6 +581,8 @@
     <div class="btn-row">
       <button class="action-btn" id="hint-btn">Hint</button>
       <button class="action-btn" id="skip-btn">Skip</button>
+      <button class="action-btn" id="mark-correct-btn">Mark correct</button>
+
       <button class="action-btn" id="settings-btn">Back to settings</button>
 
     </div>
@@ -906,6 +908,38 @@ function giveHint() {
   showFeedback('Hint: ' + hint, 'hint');
   document.getElementById('answer-input').focus();
 }
+
+function markAsCorrect() {
+  if (!currentWord || waitingNext) return;
+
+  // Remove from wrong words list
+  wrongWords = wrongWords.filter(w => w.spanish !== currentWord.spanish);
+
+  // Remove any retry of this word from the queue
+  queue = queue.filter(item => item.word.spanish !== currentWord.spanish);
+
+  // Treat exactly like a correct answer
+  totalAnswered++;
+  totalCorrect++;
+  correctSet.add(currentWord.spanish);
+
+  const inp = document.getElementById('answer-input');
+  inp.readOnly = true;
+  inp.classList.add('right');
+
+  const card = document.getElementById('card');
+  card.classList.add('correct-flash');
+  setTimeout(() => card.classList.remove('correct-flash'), 500);
+
+  showFeedback('✓ Marked correct — ' + currentWord.spanish, 'correct');
+  updateStats();
+  waitingNext = true;
+  setTimeout(() => nextWord(), 900);
+}
+
+
+document.getElementById('mark-correct-btn').addEventListener('click', markAsCorrect);
+
 
 function skipWord() {
   if (!currentWord) return;

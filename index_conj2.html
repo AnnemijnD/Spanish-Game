@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Español Verbos</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0e0a;
+    --surface: #1a1915;
+    --surface2: #222119;
+    --border: #2e2d28;
+    --gold: #c9a84c;
+    --gold2: #e8c97a;
+    --red: #c94c4c;
+    --green: #4caa6e;
+    --text: #e8e4d8;
+    --muted: #7a7668;
+    --accent: #d4874e;
+  }
+
+- { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+background: var(–bg);
+color: var(–text);
+font-family: ‘DM Sans’, sans-serif;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+body::before {
+content: ‘’;
+display: block;
+width: 100%;
+height: 3px;
+background: linear-gradient(90deg, transparent, var(–gold), var(–accent), var(–gold), transparent);
+}
+
+header {
+width: 100%;
+max-width: 720px;
+padding: 2.5rem 1.5rem 1rem;
+text-align: center;
+}
+
+.title-es {
+font-family: ‘Playfair Display’, serif;
+font-style: italic;
+font-weight: 400;
+font-size: clamp(0.85rem, 2vw, 1rem);
+color: var(–gold);
+letter-spacing: 0.2em;
+text-transform: uppercase;
+margin-bottom: 0.3rem;
+}
+
+h1 {
+font-family: ‘Playfair Display’, serif;
+font-size: clamp(2rem, 6vw, 3rem);
+font-weight: 700;
+color: var(–text);
+letter-spacing: -0.01em;
+line-height: 1.1;
+}
+
+h1 span { color: var(–gold2); }
+
+.subtitle {
+font-size: 0.82rem;
+color: var(–muted);
+letter-spacing: 0.08em;
+margin-top: 0.6rem;
+}
+
+.mode-bar {
+display: flex;
+gap: 0.5rem;
+margin: 1.5rem 1.5rem 0;
+background: var(–surface);
+border: 1px solid var(–border);
+border-radius: 999px;
+padding: 0.3rem;
+}
+
+.mode-btn {
+flex: 1;
+background: none;
+border: none;
+color: var(–muted);
+font-family: ‘DM Sans’, sans-serif;
+font-size: 0.8rem;
+font-weight: 500;
+letter-spacing: 0.05em;
+padding: 0.5rem 0.8rem;
+border-radius: 999px;
+cursor: pointer;
+transition: all 0.2s;
+white-space: nowrap;
+}
+
+.mode-btn.active {
+background: var(–gold);
+color: #0f0e0a;
+}
+
+.tense-bar {
+display: flex;
+flex-wrap: wrap;
+gap: 0.4rem;
+margin: 1rem 1.5rem 0;
+justify-content: center;
+}
+
+.tense-pill {
+background: var(–surface);
+border: 1px solid var(–border);
+color: var(–muted);
+font-family: ‘DM Mono’, monospace;
+font-size: 0.7rem;
+letter-spacing: 0.05em;
+padding: 0.3rem 0.75rem;
+border-radius: 999px;
+cursor: pointer;
+transition: all 0.2s;
+}
+
+.tense-pill.active {
+border-color: var(–gold);
+color: var(–gold);
+background: rgba(201, 168, 76, 0.08);
+}
+
+main {
+width: 100%;
+max-width: 720px;
+padding: 1.5rem 1.5rem 3rem;
+flex: 1;
+}
+
+.progress-wrap {
+display: flex;
+align-items: center;
+gap: 0.8rem;
+margin-bottom: 1.2rem;
+}
+
+.progress-bar {
+flex: 1;
+height: 3px;
+background: var(–border);
+border-radius: 99px;
+overflow: hidden;
+}
+
+.progress-fill {
+height: 100%;
+background: linear-gradient(90deg, var(–gold), var(–accent));
+border-radius: 99px;
+transition: width 0.4s ease;
+}
+
+.progress-label {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.72rem;
+color: var(–muted);
+min-width: 3.5rem;
+text-align: right;
+}
+
+.score-badge {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.72rem;
+color: var(–gold);
+background: rgba(201,168,76,0.08);
+border: 1px solid rgba(201,168,76,0.2);
+padding: 0.2rem 0.55rem;
+border-radius: 999px;
+}
+
+.card {
+background: var(–surface);
+border: 1px solid var(–border);
+border-radius: 12px;
+padding: 2rem 1.8rem;
+position: relative;
+overflow: hidden;
+}
+
+.card::before {
+content: ‘’;
+position: absolute;
+top: 0; left: 0; right: 0;
+height: 1px;
+background: linear-gradient(90deg, transparent, var(–border), transparent);
+}
+
+.card-meta {
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 1.4rem;
+}
+
+.verb-type-tag {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.65rem;
+color: var(–muted);
+background: var(–surface2);
+border: 1px solid var(–border);
+padding: 0.18rem 0.5rem;
+border-radius: 4px;
+}
+
+/* Context sentence block */
+.question-block {
+text-align: center;
+margin-bottom: 2rem;
+}
+
+.infinitive {
+font-family: ‘Playfair Display’, serif;
+font-style: italic;
+font-size: clamp(1.8rem, 5vw, 2.5rem);
+color: var(–gold2);
+margin-bottom: 0.3rem;
+display: block;
+}
+
+.meaning {
+font-size: 0.82rem;
+color: var(–muted);
+margin-bottom: 1.4rem;
+}
+
+/* The two context sentences */
+.context-sentences {
+display: flex;
+flex-direction: column;
+gap: 0.75rem;
+align-items: center;
+}
+
+.context-line {
+display: flex;
+align-items: center;
+gap: 0.6rem;
+background: var(–surface2);
+border: 1px solid var(–border);
+border-radius: 8px;
+padding: 0.6rem 1rem;
+width: 100%;
+max-width: 460px;
+}
+
+.lang-flag {
+font-size: 1rem;
+flex-shrink: 0;
+width: 1.4rem;
+text-align: center;
+}
+
+.context-text {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.88rem;
+color: var(–text);
+flex: 1;
+text-align: left;
+}
+
+.context-text .blank {
+display: inline-block;
+min-width: 3rem;
+border-bottom: 1.5px solid var(–gold);
+color: var(–gold);
+font-style: italic;
+font-size: 0.8rem;
+text-align: center;
+vertical-align: bottom;
+margin: 0 0.1rem;
+}
+
+.answer-wrap {
+display: flex;
+gap: 0.6rem;
+margin-bottom: 0.8rem;
+}
+
+.answer-input {
+flex: 1;
+background: var(–surface2);
+border: 1.5px solid var(–border);
+border-radius: 8px;
+color: var(–text);
+font-family: ‘DM Mono’, monospace;
+font-size: 1rem;
+padding: 0.7rem 1rem;
+outline: none;
+transition: border-color 0.2s;
+caret-color: var(–gold);
+}
+
+.answer-input:focus { border-color: var(–gold); }
+.answer-input.correct { border-color: var(–green); background: rgba(76,170,110,0.07); }
+.answer-input.wrong { border-color: var(–red); background: rgba(201,76,76,0.07); }
+
+.check-btn {
+background: var(–gold);
+border: none;
+border-radius: 8px;
+color: #0f0e0a;
+font-family: ‘DM Sans’, sans-serif;
+font-weight: 500;
+font-size: 0.9rem;
+padding: 0.7rem 1.4rem;
+cursor: pointer;
+transition: all 0.18s;
+white-space: nowrap;
+}
+
+.check-btn:hover { background: var(–gold2); transform: translateY(-1px); }
+.check-btn:active { transform: translateY(0); }
+
+.feedback {
+min-height: 2.2rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 1rem;
+}
+
+.feedback-msg {
+font-size: 0.85rem;
+font-weight: 500;
+display: flex;
+align-items: center;
+gap: 0.4rem;
+opacity: 0;
+transform: translateY(4px);
+transition: all 0.25s;
+}
+
+.feedback-msg.show { opacity: 1; transform: translateY(0); }
+.feedback-msg.correct-msg { color: var(–green); }
+.feedback-msg.wrong-msg { color: var(–red); }
+
+.correct-answer {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.82rem;
+color: var(–muted);
+opacity: 0;
+transition: opacity 0.25s 0.1s;
+}
+
+.correct-answer.show { opacity: 1; }
+.correct-answer span { color: var(–text); }
+
+.next-btn {
+background: none;
+border: 1px solid var(–border);
+border-radius: 8px;
+color: var(–text);
+font-family: ‘DM Sans’, sans-serif;
+font-size: 0.85rem;
+padding: 0.45rem 1rem;
+cursor: pointer;
+transition: all 0.18s;
+opacity: 0;
+pointer-events: none;
+}
+
+.next-btn.show { opacity: 1; pointer-events: all; }
+.next-btn:hover { border-color: var(–gold); color: var(–gold); }
+
+/* TABLE MODE */
+.table-card {
+background: var(–surface);
+border: 1px solid var(–border);
+border-radius: 12px;
+overflow: hidden;
+}
+
+.table-header {
+display: grid;
+grid-template-columns: 1fr 1fr auto;
+gap: 1rem;
+padding: 1.2rem 1.8rem 1rem;
+border-bottom: 1px solid var(–border);
+align-items: end;
+}
+
+.verb-select-wrap { display: flex; flex-direction: column; gap: 0.3rem; }
+.select-label { font-size: 0.68rem; color: var(–muted); letter-spacing: 0.08em; text-transform: uppercase; }
+
+.verb-select, .tense-select {
+background: var(–surface2);
+border: 1px solid var(–border);
+border-radius: 6px;
+color: var(–text);
+font-family: ‘DM Mono’, monospace;
+font-size: 0.85rem;
+padding: 0.45rem 0.7rem;
+outline: none;
+cursor: pointer;
+width: 100%;
+}
+
+.check-all-btn {
+background: var(–gold);
+border: none;
+border-radius: 6px;
+color: #0f0e0a;
+font-family: ‘DM Sans’, sans-serif;
+font-weight: 500;
+font-size: 0.82rem;
+padding: 0.45rem 1rem;
+cursor: pointer;
+white-space: nowrap;
+align-self: flex-end;
+transition: background 0.18s;
+}
+.check-all-btn:hover { background: var(–gold2); }
+
+.table-grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.table-cell {
+padding: 0.85rem 1.8rem;
+border-bottom: 1px solid var(–border);
+display: flex;
+align-items: center;
+gap: 0.7rem;
+}
+
+.table-cell:nth-child(even) { border-left: 1px solid var(–border); }
+
+.pronoun-label {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.75rem;
+color: var(–muted);
+min-width: 5rem;
+}
+
+.cell-input {
+flex: 1;
+background: none;
+border: none;
+border-bottom: 1.5px solid var(–border);
+color: var(–text);
+font-family: ‘DM Mono’, monospace;
+font-size: 0.9rem;
+padding: 0.15rem 0;
+outline: none;
+transition: border-color 0.2s;
+caret-color: var(–gold);
+}
+
+.cell-input:focus { border-bottom-color: var(–gold); }
+.cell-input.correct { border-bottom-color: var(–green); color: var(–green); }
+.cell-input.wrong { border-bottom-color: var(–red); color: var(–red); }
+.cell-input.revealed { border-bottom-color: var(–accent); color: var(–accent); }
+
+.table-footer {
+padding: 1rem 1.8rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+border-top: 1px solid var(–border);
+}
+
+.table-result {
+font-family: ‘DM Mono’, monospace;
+font-size: 0.8rem;
+color: var(–muted);
+}
+
+.table-result span { color: var(–gold2); }
+
+.reset-btn {
+background: none;
+border: 1px solid var(–border);
+border-radius: 6px;
+color: var(–muted);
+font-family: ‘DM Sans’, sans-serif;
+font-size: 0.8rem;
+padding: 0.35rem 0.8rem;
+cursor: pointer;
+transition: all 0.18s;
+}
+.reset-btn:hover { border-color: var(–muted); color: var(–text); }
+
+.stats-row {
+display: flex;
+gap: 0.8rem;
+margin-top: 1.2rem;
+flex-wrap: wrap;
+}
+
+.stat-box {
+flex: 1;
+min-width: 80px;
+background: var(–surface);
+border: 1px solid var(–border);
+border-radius: 8px;
+padding: 0.8rem 1rem;
+text-align: center;
+}
+
+.stat-num {
+font-family: ‘Playfair Display’, serif;
+font-size: 1.6rem;
+color: var(–gold2);
+display: block;
+line-height: 1;
+}
+
+.stat-label {
+font-size: 0.68rem;
+color: var(–muted);
+letter-spacing: 0.07em;
+text-transform: uppercase;
+margin-top: 0.2rem;
+display: block;
+}
+
+.quote-strip {
+font-family: ‘Playfair Display’, serif;
+font-style: italic;
+font-size: 0.78rem;
+color: var(–border);
+text-align: center;
+margin-top: 2rem;
+letter-spacing: 0.03em;
+}
+
+@media (max-width: 480px) {
+.table-grid { grid-template-columns: 1fr; }
+.table-cell:nth-child(even) { border-left: none; }
+.mode-btn { font-size: 0.72rem; padding: 0.45rem 0.6rem; }
+.table-header { grid-template-columns: 1fr 1fr; }
+.check-all-btn { grid-column: 1/-1; }
+.context-line { max-width: 100%; }
+}
+</style>
+
+</head>
+<body>
+
+<header>
+  <div class="title-es">practica de verbos</div>
+  <h1>Español <span>Verbos</span></h1>
+  <div class="subtitle">Werkwoordsvervoegingen oefenen · zonder aanvoegende wijs</div>
+</header>
+
+<div class="mode-bar">
+  <button class="mode-btn active" onclick="setMode('drill')">🎯 Drill</button>
+  <button class="mode-btn" onclick="setMode('table')">📋 Tabel</button>
+</div>
+
+<div class="tense-bar" id="tenseBar"></div>
+
+<main id="mainContent"></main>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────────────────────
+
+const PRONOUNS = ['yo','tú','él/ella','nosotros','vosotros','ellos/ellas'];
+
+// Context sentences per tense per pronoun index.
+// nl: shown in FULL (complete Dutch sentence, no blank — it's the translation hint)
+// es: Spaanse zin met ___ alleen op de plek van het werkwoord
+const CONTEXTS = {
+  presente: {
+    nl: [
+      'Elke dag ... ik.',
+      'Elke dag ... jij.',
+      'Elke dag ... hij/zij.',
+      'Elke dag ... wij.',
+      'Elke dag ... jullie.',
+      'Elke dag ... zij.',
+    ],
+    es: [
+      'Cada día yo ___.',
+      'Cada día tú ___.',
+      'Cada día él ___.',
+      'Cada día nosotros ___.',
+      'Cada día vosotros ___.',
+      'Cada día ellos ___.',
+    ],
+  },
+  indefinido: {
+    nl: [
+      'Gisteren ... ik.',
+      'Gisteren ... jij.',
+      'Gisteren ... hij/zij.',
+      'Gisteren ... wij.',
+      'Gisteren ... jullie.',
+      'Gisteren ... zij.',
+    ],
+    es: [
+      'Ayer yo ___.',
+      'Ayer tú ___.',
+      'Ayer él ___.',
+      'Ayer nosotros ___.',
+      'Ayer vosotros ___.',
+      'Ayer ellos ___.',
+    ],
+  },
+  imperfecto: {
+    nl: [
+      'Als kind ... ik altijd.',
+      'Als kind ... jij altijd.',
+      'Als kind ... hij/zij altijd.',
+      'Als kinderen ... wij altijd.',
+      'Als kinderen ... jullie altijd.',
+      'Als kinderen ... zij altijd.',
+    ],
+    es: [
+      'De niño, yo siempre ___.',
+      'De niño, tú siempre ___.',
+      'De niño, él siempre ___.',
+      'De niños, nosotros siempre ___.',
+      'De niños, vosotros siempre ___.',
+      'De niños, ellos siempre ___.',
+    ],
+  },
+  futuro: {
+    nl: [
+      'Morgen zal ik ...',
+      'Morgen zal jij ...',
+      'Morgen zal hij/zij ...',
+      'Morgen zullen wij ...',
+      'Morgen zullen jullie ...',
+      'Morgen zullen zij ...',
+    ],
+    es: [
+      'Mañana yo ___.',
+      'Mañana tú ___.',
+      'Mañana él ___.',
+      'Mañana nosotros ___.',
+      'Mañana vosotros ___.',
+      'Mañana ellos ___.',
+    ],
+  },
+  condicional: {
+    nl: [
+      'Als ik kon, zou ik ...',
+      'Als jij kon, zou jij ...',
+      'Als hij/zij kon, zou hij/zij ...',
+      'Als wij konden, zouden wij ...',
+      'Als jullie konden, zouden jullie ...',
+      'Als zij konden, zouden zij ...',
+    ],
+    es: [
+      'Si pudiera, yo ___.',
+      'Si pudieras, tú ___.',
+      'Si pudiera, él ___.',
+      'Si pudiéramos, nosotros ___.',
+      'Si pudierais, vosotros ___.',
+      'Si pudieran, ellos ___.',
+    ],
+  },
+  perfecto: {
+    nl: [
+      'Vandaag heb/ben ik al ...',
+      'Vandaag heb/ben jij al ...',
+      'Vandaag heeft/is hij/zij al ...',
+      'Vandaag hebben/zijn wij al ...',
+      'Vandaag hebben/zijn jullie al ...',
+      'Vandaag hebben/zijn zij al ...',
+    ],
+    es: [
+      'Hoy yo ya ___.',
+      'Hoy tú ya ___.',
+      'Hoy él ya ___.',
+      'Hoy nosotros ya ___.',
+      'Hoy vosotros ya ___.',
+      'Hoy ellos ya ___.',
+    ],
+  },
+  pluscuamperfecto: {
+    nl: [
+      'Toen ik aankwam, had/was ik al ...',
+      'Toen jij aankwam, had/was jij al ...',
+      'Toen hij/zij aankwam, had/was hij/zij al ...',
+      'Toen wij aankwamen, hadden/waren wij al ...',
+      'Toen jullie aankwamen, hadden/waren jullie al ...',
+      'Toen zij aankwamen, hadden/waren zij het ...',
+    ],
+    es: [
+      'Cuando llegué, yo ya ___.',
+      'Cuando llegaste, tú ya ___.',
+      'Cuando llegó, él ya ___.',
+      'Cuando llegamos, nosotros ya ___.',
+      'Cuando llegasteis, vosotros ya ___.',
+      'Cuando llegaron, ellos ya ___.',
+    ],
+  },
+  imperativo: {
+    nl: [
+      '— (geen gebiedende wijs voor yo)',
+      'Doe het nu!',
+      'Doe het nu! (formeel)',
+      'Laten we het doen!',
+      'Doe het! (jullie)',
+      'Doe het! (formeel, meervoud)',
+    ],
+    es: [
+      '— (no existe para yo)',
+      '¡Tú ___!',
+      '¡Usted ___!',
+      '¡Nosotros ___!',
+      '¡Vosotros ___!',
+      '¡Ustedes ___!',
+    ],
+  },
+};
+
+const VERBS = [
+  {
+    inf:'hablar', meaning:'spreken', type:'-ar',
+    presente:['hablo','hablas','habla','hablamos','habláis','hablan'],
+    indefinido:['hablé','hablaste','habló','hablamos','hablasteis','hablaron'],
+    imperfecto:['hablaba','hablabas','hablaba','hablábamos','hablabais','hablaban'],
+    futuro:['hablaré','hablarás','hablará','hablaremos','hablaréis','hablarán'],
+    condicional:['hablaría','hablarías','hablaría','hablaríamos','hablaríais','hablarían'],
+    perfecto:['he hablado','has hablado','ha hablado','hemos hablado','habéis hablado','han hablado'],
+    pluscuamperfecto:['había hablado','habías hablado','había hablado','habíamos hablado','habíais hablado','habían hablado'],
+    imperativo:['—','habla','hable','hablemos','hablad','hablen'],
+  },
+  {
+    inf:'comer', meaning:'eten', type:'-er',
+    presente:['como','comes','come','comemos','coméis','comen'],
+    indefinido:['comí','comiste','comió','comimos','comisteis','comieron'],
+    imperfecto:['comía','comías','comía','comíamos','comíais','comían'],
+    futuro:['comeré','comerás','comerá','comeremos','comeréis','comerán'],
+    condicional:['comería','comerías','comería','comeríamos','comeríais','comerían'],
+    perfecto:['he comido','has comido','ha comido','hemos comido','habéis comido','han comido'],
+    pluscuamperfecto:['había comido','habías comido','había comido','habíamos comido','habíais comido','habían comido'],
+    imperativo:['—','come','coma','comamos','comed','coman'],
+  },
+  {
+    inf:'vivir', meaning:'leven', type:'-ir',
+    presente:['vivo','vives','vive','vivimos','vivís','viven'],
+    indefinido:['viví','viviste','vivió','vivimos','vivisteis','vivieron'],
+    imperfecto:['vivía','vivías','vivía','vivíamos','vivíais','vivían'],
+    futuro:['viviré','vivirás','vivirá','viviremos','viviréis','vivirán'],
+    condicional:['viviría','vivirías','viviría','viviríamos','viviríais','vivirían'],
+    perfecto:['he vivido','has vivido','ha vivido','hemos vivido','habéis vivido','han vivido'],
+    pluscuamperfecto:['había vivido','habías vivido','había vivido','habíamos vivido','habíais vivido','habían vivido'],
+    imperativo:['—','vive','viva','vivamos','vivid','vivan'],
+  },
+  {
+    inf:'ser', meaning:'zijn (permanent)', type:'onregelm.',
+    presente:['soy','eres','es','somos','sois','son'],
+    indefinido:['fui','fuiste','fue','fuimos','fuisteis','fueron'],
+    imperfecto:['era','eras','era','éramos','erais','eran'],
+    futuro:['seré','serás','será','seremos','seréis','serán'],
+    condicional:['sería','serías','sería','seríamos','seríais','serían'],
+    perfecto:['he sido','has sido','ha sido','hemos sido','habéis sido','han sido'],
+    pluscuamperfecto:['había sido','habías sido','había sido','habíamos sido','habíais sido','habían sido'],
+    imperativo:['—','sé','sea','seamos','sed','sean'],
+  },
+  {
+    inf:'estar', meaning:'zijn (tijdelijk)', type:'onregelm.',
+    presente:['estoy','estás','está','estamos','estáis','están'],
+    indefinido:['estuve','estuviste','estuvo','estuvimos','estuvisteis','estuvieron'],
+    imperfecto:['estaba','estabas','estaba','estábamos','estabais','estaban'],
+    futuro:['estaré','estarás','estará','estaremos','estaréis','estarán'],
+    condicional:['estaría','estarías','estaría','estaríamos','estaríais','estarían'],
+    perfecto:['he estado','has estado','ha estado','hemos estado','habéis estado','han estado'],
+    pluscuamperfecto:['había estado','habías estado','había estado','habíamos estado','habíais estado','habían estado'],
+    imperativo:['—','está','esté','estemos','estad','estén'],
+  },
+  {
+    inf:'tener', meaning:'hebben', type:'onregelm.',
+    presente:['tengo','tienes','tiene','tenemos','tenéis','tienen'],
+    indefinido:['tuve','tuviste','tuvo','tuvimos','tuvisteis','tuvieron'],
+    imperfecto:['tenía','tenías','tenía','teníamos','teníais','tenían'],
+    futuro:['tendré','tendrás','tendrá','tendremos','tendréis','tendrán'],
+    condicional:['tendría','tendrías','tendría','tendríamos','tendríais','tendrían'],
+    perfecto:['he tenido','has tenido','ha tenido','hemos tenido','habéis tenido','han tenido'],
+    pluscuamperfecto:['había tenido','habías tenido','había tenido','habíamos tenido','habíais tenido','habían tenido'],
+    imperativo:['—','ten','tenga','tengamos','tened','tengan'],
+  },
+  {
+    inf:'hacer', meaning:'doen/maken', type:'onregelm.',
+    presente:['hago','haces','hace','hacemos','hacéis','hacen'],
+    indefinido:['hice','hiciste','hizo','hicimos','hicisteis','hicieron'],
+    imperfecto:['hacía','hacías','hacía','hacíamos','hacíais','hacían'],
+    futuro:['haré','harás','hará','haremos','haréis','harán'],
+    condicional:['haría','harías','haría','haríamos','haríais','harían'],
+    perfecto:['he hecho','has hecho','ha hecho','hemos hecho','habéis hecho','han hecho'],
+    pluscuamperfecto:['había hecho','habías hecho','había hecho','habíamos hecho','habíais hecho','habían hecho'],
+    imperativo:['—','haz','haga','hagamos','haced','hagan'],
+  },
+  {
+    inf:'ir', meaning:'gaan', type:'onregelm.',
+    presente:['voy','vas','va','vamos','vais','van'],
+    indefinido:['fui','fuiste','fue','fuimos','fuisteis','fueron'],
+    imperfecto:['iba','ibas','iba','íbamos','ibais','iban'],
+    futuro:['iré','irás','irá','iremos','iréis','irán'],
+    condicional:['iría','irías','iría','iríamos','iríais','irían'],
+    perfecto:['he ido','has ido','ha ido','hemos ido','habéis ido','han ido'],
+    pluscuamperfecto:['había ido','habías ido','había ido','habíamos ido','habíais ido','habían ido'],
+    imperativo:['—','ve','vaya','vayamos','id','vayan'],
+  },
+  {
+    inf:'poder', meaning:'kunnen', type:'onregelm.',
+    presente:['puedo','puedes','puede','podemos','podéis','pueden'],
+    indefinido:['pude','pudiste','pudo','pudimos','pudisteis','pudieron'],
+    imperfecto:['podía','podías','podía','podíamos','podíais','podían'],
+    futuro:['podré','podrás','podrá','podremos','podréis','podrán'],
+    condicional:['podría','podrías','podría','podríamos','podríais','podrían'],
+    perfecto:['he podido','has podido','ha podido','hemos podido','habéis podido','han podido'],
+    pluscuamperfecto:['había podido','habías podido','había podido','habíamos podido','habíais podido','habían podido'],
+    imperativo:['—','puede','pueda','podamos','poded','puedan'],
+  },
+  {
+    inf:'querer', meaning:'willen/houden van', type:'onregelm.',
+    presente:['quiero','quieres','quiere','queremos','queréis','quieren'],
+    indefinido:['quise','quisiste','quiso','quisimos','quisisteis','quisieron'],
+    imperfecto:['quería','querías','quería','queríamos','queríais','querían'],
+    futuro:['querré','querrás','querrá','querremos','querréis','querrán'],
+    condicional:['querría','querrías','querría','querríamos','querríais','querrían'],
+    perfecto:['he querido','has querido','ha querido','hemos querido','habéis querido','han querido'],
+    pluscuamperfecto:['había querido','habías querido','había querido','habíamos querido','habíais querido','habían querido'],
+    imperativo:['—','quiere','quiera','queramos','quered','quieran'],
+  },
+  {
+    inf:'decir', meaning:'zeggen', type:'onregelm.',
+    presente:['digo','dices','dice','decimos','decís','dicen'],
+    indefinido:['dije','dijiste','dijo','dijimos','dijisteis','dijeron'],
+    imperfecto:['decía','decías','decía','decíamos','decíais','decían'],
+    futuro:['diré','dirás','dirá','diremos','diréis','dirán'],
+    condicional:['diría','dirías','diría','diríamos','diríais','dirían'],
+    perfecto:['he dicho','has dicho','ha dicho','hemos dicho','habéis dicho','han dicho'],
+    pluscuamperfecto:['había dicho','habías dicho','había dicho','habíamos dicho','habíais dicho','habían dicho'],
+    imperativo:['—','di','diga','digamos','decid','digan'],
+  },
+  {
+    inf:'saber', meaning:'weten/kennen', type:'onregelm.',
+    presente:['sé','sabes','sabe','sabemos','sabéis','saben'],
+    indefinido:['supe','supiste','supo','supimos','supisteis','supieron'],
+    imperfecto:['sabía','sabías','sabía','sabíamos','sabíais','sabían'],
+    futuro:['sabré','sabrás','sabrá','sabremos','sabréis','sabrán'],
+    condicional:['sabría','sabrías','sabría','sabríamos','sabríais','sabrían'],
+    perfecto:['he sabido','has sabido','ha sabido','hemos sabido','habéis sabido','han sabido'],
+    pluscuamperfecto:['había sabido','habías sabido','había sabido','habíamos sabido','habíais sabido','habían sabido'],
+    imperativo:['—','sabe','sepa','sepamos','sabed','sepan'],
+  },
+  {
+    inf:'venir', meaning:'komen', type:'onregelm.',
+    presente:['vengo','vienes','viene','venimos','venís','vienen'],
+    indefinido:['vine','viniste','vino','vinimos','vinisteis','vinieron'],
+    imperfecto:['venía','venías','venía','veníamos','veníais','venían'],
+    futuro:['vendré','vendrás','vendrá','vendremos','vendréis','vendrán'],
+    condicional:['vendría','vendrías','vendría','vendríamos','vendríais','vendrían'],
+    perfecto:['he venido','has venido','ha venido','hemos venido','habéis venido','han venido'],
+    pluscuamperfecto:['había venido','habías venido','había venido','habíamos venido','habíais venido','habían venido'],
+    imperativo:['—','ven','venga','vengamos','venid','vengan'],
+  },
+  {
+    inf:'dar', meaning:'geven', type:'onregelm.',
+    presente:['doy','das','da','damos','dais','dan'],
+    indefinido:['di','diste','dio','dimos','disteis','dieron'],
+    imperfecto:['daba','dabas','daba','dábamos','dabais','daban'],
+    futuro:['daré','darás','dará','daremos','daréis','darán'],
+    condicional:['daría','darías','daría','daríamos','daríais','darían'],
+    perfecto:['he dado','has dado','ha dado','hemos dado','habéis dado','han dado'],
+    pluscuamperfecto:['había dado','habías dado','había dado','habíamos dado','habíais dado','habían dado'],
+    imperativo:['—','da','dé','demos','dad','den'],
+  },
+  {
+    inf:'ver', meaning:'zien', type:'onregelm.',
+    presente:['veo','ves','ve','vemos','veis','ven'],
+    indefinido:['vi','viste','vio','vimos','visteis','vieron'],
+    imperfecto:['veía','veías','veía','veíamos','veíais','veían'],
+    futuro:['veré','verás','verá','veremos','veréis','verán'],
+    condicional:['vería','verías','vería','veríamos','veríais','verían'],
+    perfecto:['he visto','has visto','ha visto','hemos visto','habéis visto','han visto'],
+    pluscuamperfecto:['había visto','habías visto','había visto','habíamos visto','habíais visto','habían visto'],
+    imperativo:['—','ve','vea','veamos','ved','vean'],
+  },
+];
+
+const TENSES = [
+  { key:'presente',           label:'Presente' },
+  { key:'indefinido',         label:'Indefinido' },
+  { key:'imperfecto',         label:'Imperfecto' },
+  { key:'futuro',             label:'Futuro' },
+  { key:'condicional',        label:'Condicional' },
+  { key:'perfecto',           label:'Pretérito perf.' },
+  { key:'pluscuamperfecto',   label:'Pluscuamperf.' },
+  { key:'imperativo',         label:'Imperativo' },
+];
+
+// ── STATE ─────────────────────────────────────────────────────────────────────
+
+let mode = 'drill';
+let activeTenses = TENSES.map(t => t.key);
+let drillState = { questions:[], idx:0, correct:0, total:0 };
+let answered = false;
+
+// ── HELPERS ───────────────────────────────────────────────────────────────────
+
+// Renders an ES sentence: blank before check, filled after
+function renderSentence(template, filled) {
+  if (filled !== null) {
+    return template.replace('___', `<strong style="color:var(--gold2)">${filled}</strong>`);
+  }
+  return template.replace('___', '<span class="blank">___</span>');
+}
+
+// ── TENSE BAR ─────────────────────────────────────────────────────────────────
+
+function buildTenseBar() {
+  const bar = document.getElementById('tenseBar');
+  bar.innerHTML = TENSES.map(t => `
+    <button class="tense-pill active" data-key="${t.key}" onclick="toggleTense('${t.key}')">${t.label}</button>
+  `).join('');
+}
+
+function toggleTense(key) {
+  const idx = activeTenses.indexOf(key);
+  if (idx === -1) { activeTenses.push(key); }
+  else if (activeTenses.length > 1) { activeTenses.splice(idx, 1); }
+  document.querySelectorAll('.tense-pill').forEach(p => {
+    p.classList.toggle('active', activeTenses.includes(p.dataset.key));
+  });
+  if (mode === 'drill') startDrill();
+}
+
+function setMode(m) {
+  mode = m;
+  document.querySelectorAll('.mode-btn').forEach((b,i) => b.classList.toggle('active', (i===0&&m==='drill')||(i===1&&m==='table')));
+  render();
+}
+
+// ── DRILL MODE ────────────────────────────────────────────────────────────────
+
+function buildQuestions() {
+  const qs = [];
+  VERBS.forEach(v => {
+    activeTenses.forEach(t => {
+      PRONOUNS.forEach((p, i) => {
+        if (v[t][i] !== '—') qs.push({ verb:v, tense:t, pIdx:i });
+      });
+    });
+  });
+  for (let i = qs.length-1; i > 0; i--) {
+    const j = Math.floor(Math.random()*(i+1));
+    [qs[i],qs[j]] = [qs[j],qs[i]];
+  }
+  return qs;
+}
+
+function startDrill() {
+  drillState.questions = buildQuestions();
+  drillState.idx = 0;
+  drillState.correct = 0;
+  drillState.total = 0;
+  answered = false;
+  render();
+}
+
+function renderDrill() {
+  const qs = drillState.questions;
+  if (!qs.length) return '<div class="card" style="text-align:center;padding:3rem"><span style="color:var(--muted)">Geen tijden geselecteerd.</span></div>';
+
+  const q = qs[drillState.idx % qs.length];
+  const pct = Math.round((drillState.idx / qs.length) * 100);
+
+  const ctx = CONTEXTS[q.tense];
+  const nlTemplate = ctx.nl[q.pIdx];
+  const esTemplate = ctx.es[q.pIdx];
+
+  return `
+  <div class="progress-wrap">
+    <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+    <div class="score-badge">${drillState.correct}✓ ${drillState.total - drillState.correct}✗</div>
+    <div class="progress-label">${drillState.idx}/${qs.length}</div>
+  </div>
+
+  <div class="card">
+    <div class="card-meta">
+      <span style="font-family:'DM Mono',monospace;font-size:0.68rem;letter-spacing:0.1em;color:var(--accent);text-transform:uppercase">
+        ${q.verb.inf} · ${q.verb.meaning}
+      </span>
+      <span class="verb-type-tag">${q.verb.type}</span>
+    </div>
+
+    <div class="question-block">
+      <span class="infinitive">${q.verb.inf}</span>
+      <div class="meaning">${q.verb.meaning}</div>
+
+      <div class="context-sentences">
+        <div class="context-line">
+          <span class="lang-flag">🇳🇱</span>
+          <span class="context-text">${nlTemplate}</span>
+        </div>
+        <div class="context-line">
+          <span class="lang-flag">🇪🇸</span>
+          <span class="context-text" id="esContextLine">${renderSentence(esTemplate, null)}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="answer-wrap">
+      <input class="answer-input" id="answerInput" type="text"
+        placeholder="typ de vervoeging…" autocomplete="off" autocorrect="off" spellcheck="false">
+      <button class="check-btn" onclick="checkAnswer()">Controleer</button>
+    </div>
+
+    <div class="feedback">
+      <div>
+        <div class="feedback-msg" id="feedbackMsg"></div>
+        <div class="correct-answer" id="correctAnswer"></div>
+      </div>
+      <button class="next-btn" id="nextBtn" onclick="nextQuestion()">Volgende →</button>
+    </div>
+  </div>
+
+  <div class="stats-row">
+    <div class="stat-box"><span class="stat-num">${qs.length}</span><span class="stat-label">vragen</span></div>
+    <div class="stat-box"><span class="stat-num">${drillState.correct}</span><span class="stat-label">goed</span></div>
+    <div class="stat-box"><span class="stat-num" style="color:var(--red)">${drillState.total - drillState.correct}</span><span class="stat-label">fout</span></div>
+    <div class="stat-box"><span class="stat-num">${drillState.total ? Math.round(drillState.correct/drillState.total*100)+'%' : '—'}</span><span class="stat-label">score</span></div>
+  </div>
+
+  <div class="quote-strip">La práctica hace al maestro · oefening baart kunst</div>
+  `;
+}
+
+function checkAnswer() {
+  if (answered) return;
+  const qs = drillState.questions;
+  const q = qs[drillState.idx % qs.length];
+  const input = document.getElementById('answerInput');
+  const val = input.value.trim();
+  const correct = q.verb[q.tense][q.pIdx];
+
+
+// normalize to lowercase
+const isOk = val.toLowerCase() === correct.toLowerCase();
+
+  answered = true;
+  drillState.total++;
+  if (isOk) drillState.correct++;
+
+  input.classList.add(isOk ? 'correct' : 'wrong');
+
+  // Fill in the ES sentence with the correct answer
+  const ctx = CONTEXTS[q.tense];
+  const esLine = document.getElementById('esContextLine');
+  if (esLine) {
+    esLine.innerHTML = renderSentence(ctx.es[q.pIdx], correct);
+  }
+
+  const msg = document.getElementById('feedbackMsg');
+  msg.className = 'feedback-msg show ' + (isOk ? 'correct-msg' : 'wrong-msg');
+  msg.innerHTML = isOk ? '✓ Correct!' : '✗ Helaas';
+
+  const ca = document.getElementById('correctAnswer');
+  ca.className = 'correct-answer show';
+  ca.innerHTML = isOk ? '' : `Antwoord: <span>${correct}</span>`;
+
+  document.getElementById('nextBtn').classList.add('show');
+}
+
+function nextQuestion() {
+  drillState.idx++;
+  if (drillState.idx >= drillState.questions.length) startDrill();
+  else { answered = false; render(); }
+}
+
+// ── TABLE MODE ────────────────────────────────────────────────────────────────
+
+let tableVerb = VERBS[0];
+let tableTense = 'presente';
+let tableChecked = false;
+
+function renderTable() {
+  let cells = '';
+  PRONOUNS.forEach((p, i) => {
+    cells += `
+      <div class="table-cell">
+        <span class="pronoun-label">${p}</span>
+        <input class="cell-input" id="cell_${i}" data-idx="${i}" type="text"
+          placeholder="…" autocomplete="off" autocorrect="off" spellcheck="false"
+          onkeydown="if(event.key==='Enter'&&+event.target.dataset.idx<5)document.getElementById('cell_'+(+event.target.dataset.idx+1)).focus()">
+      </div>
+    `;
+  });
+
+  return `
+  <div class="table-card">
+    <div class="table-header">
+      <div class="verb-select-wrap">
+        <span class="select-label">Werkwoord</span>
+        <select class="verb-select" onchange="tableVerb=VERBS[this.value];tableChecked=false;render()">
+          ${VERBS.map((v,i) => `<option value="${i}" ${v===tableVerb?'selected':''}>${v.inf} — ${v.meaning}</option>`).join('')}
+        </select>
+      </div>
+      <div class="verb-select-wrap">
+        <span class="select-label">Tijd</span>
+        <select class="tense-select" onchange="tableTense=this.value;tableChecked=false;render()">
+          ${TENSES.map(t => `<option value="${t.key}" ${t.key===tableTense?'selected':''}>${t.label}</option>`).join('')}
+        </select>
+      </div>
+      <button class="check-all-btn" onclick="checkTable()">Controleer</button>
+    </div>
+
+    <div class="table-grid">${cells}</div>
+
+    <div class="table-footer">
+      <div class="table-result" id="tableResult">Vul alle vormen in en druk op Controleer.</div>
+      <button class="reset-btn" onclick="resetTable()">Wis alles</button>
+    </div>
+  </div>
+
+  <div class="quote-strip" style="margin-top:1.5rem">
+    ${tableVerb.inf} · ${tableVerb.meaning} · ${tableVerb.type}
+  </div>
+  `;
+}
+
+function checkTable() {
+  let c = 0, total = 0;
+  const norm = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  PRONOUNS.forEach((_,i) => {
+    const ans = tableVerb[tableTense][i];
+    if (ans === '—') return;
+    total++;
+    const inp = document.getElementById('cell_'+i);
+    if (!inp) return;
+    const val = inp.value.trim();
+    const isOk = norm(val) === norm(ans);
+    if (isOk) { inp.className='cell-input correct'; c++; }
+    else {
+      inp.className='cell-input wrong';
+      if (!val) { inp.value=ans; inp.className='cell-input revealed'; }
+    }
+  });
+  const res = document.getElementById('tableResult');
+  if (res) res.innerHTML = `<span>${c}/${total}</span> goed · ${Math.round(c/total*100)}%`;
+  tableChecked = true;
+}
+
+function resetTable() {
+  PRONOUNS.forEach((_,i) => {
+    const inp = document.getElementById('cell_'+i);
+    if (inp) { inp.value=''; inp.className='cell-input'; }
+  });
+  const res = document.getElementById('tableResult');
+  if (res) res.innerHTML = 'Vul alle vormen in en druk op Controleer.';
+  tableChecked = false;
+}
+
+// ── RENDER ────────────────────────────────────────────────────────────────────
+
+function render() {
+  const main = document.getElementById('mainContent');
+  if (mode === 'drill') {
+    main.innerHTML = renderDrill();
+    const inp = document.getElementById('answerInput');
+    if (inp) {
+      inp.addEventListener('keydown', e => {
+        if (e.key === 'Enter') { if (!answered) checkAnswer(); else nextQuestion(); }
+      });
+      inp.focus();
+    }
+  } else {
+    main.innerHTML = renderTable();
+  }
+}
+
+// ── BOOT ──────────────────────────────────────────────────────────────────────
+
+buildTenseBar();
+startDrill();
+</script>
+
+</body>
+</html>
